@@ -1,0 +1,20 @@
+tests/test_planning.py
+  s_ead797203cd50f::t_570082bd4b6f87 134-139,838-855
+  s_ead797203cd50f::t_554dc35b422585 856-857
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c7bc9f2bf9829bf186995863083a767610ad609d",
+  "prompts": {},
+  "sessions": {
+    "s_ead797203cd50f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1af82-ac2a-7603-b447-16fe887515b6",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
