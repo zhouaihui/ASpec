@@ -1,0 +1,116 @@
+docs/contributing/validation.md
+  s_b7ff51f33504f1::t_bd1c77db7fc8c3 18
+  s_b7ff51f33504f1::t_4867c33ee4a62d 154-163
+  s_b7ff51f33504f1::t_783f70ff3c2179 164
+tests/test_release_recipes.py
+  s_b7ff51f33504f1::t_b3192e21c7b61a 40,47,76,86
+docs/support.md
+  s_b7ff51f33504f1::t_4867c33ee4a62d 33-34
+  s_b7ff51f33504f1::t_53c8190ccca58b 31-32
+  s_b7ff51f33504f1::t_7a5447bb7a71e4 52-54
+tools/recipe_catalog.json
+  s_b7ff51f33504f1::t_b3192e21c7b61a 114-115,139-150
+tests/test_multi_draft_plan.py
+  s_b7ff51f33504f1::t_6b36819a6bfc9a 299
+  s_b7ff51f33504f1::t_f174bd123797c0 291-298,300-339
+docs/framework/ROADMAP.md
+  s_b7ff51f33504f1::t_eb6c7c71829b31 10
+tests/test_shared_source.py
+  s_b7ff51f33504f1::t_177e03e8ee095e 701-703,705,707,709,711-721
+  s_b7ff51f33504f1::t_f174bd123797c0 668-700,704,706,708,710
+docs/user-guide/recipes.md
+  s_b7ff51f33504f1::t_b3192e21c7b61a 29
+  s_b7ff51f33504f1::t_15dfceabf70f47 85-88
+aspec/commands/recipes.py
+  s_b7ff51f33504f1::t_b3192e21c7b61a 394,428
+docs/user-guide/multinode.md
+  s_b7ff51f33504f1::t_cb077e9dcf7447 6-7
+tests/test_startup_cleanup.py
+  s_b7ff51f33504f1::t_7030196bc96997 21,24-27,29,31-38
+tools/recipes.py
+  s_b7ff51f33504f1::t_23e7c8713aa3fc 209-211
+aspec/controller/shared_source.py
+  s_b7ff51f33504f1::t_a8ff9c1723dc27 500
+  s_b7ff51f33504f1::t_5dad24c925dc1b 90-92,94,96-101,103,239-243,291-292,367-372,483-499,631
+  s_b7ff51f33504f1::t_229d1dda25c797 102,302-303,311-350,611
+.github/workflows/ci.yml
+  s_b7ff51f33504f1::t_bd77915a2d2828 77-80
+ROADMAP.md
+  s_b7ff51f33504f1::t_4867c33ee4a62d 19
+  s_b7ff51f33504f1::t_58b11a2908cc7b 20
+aspec/controller/inference_manager.py
+  s_b7ff51f33504f1::t_38fd0ef4deb849 871
+  s_b7ff51f33504f1::t_5dad24c925dc1b 872-879,906-916
+docs/framework/ARCHITECTURE.md
+  s_b7ff51f33504f1::t_0cb08d0b2e9d2d 81-83
+  s_b7ff51f33504f1::t_4867c33ee4a62d 78-79
+  s_b7ff51f33504f1::t_55c626761e4beb 80
+tests/test_multi_draft_runtime.py
+  s_b7ff51f33504f1::t_38fd0ef4deb849 46-52,54-58
+  s_b7ff51f33504f1::t_97ab87e113b58f 279,390-407
+  s_b7ff51f33504f1::t_5a911c7a880767 411-412,415-417,419-431,435-436,438-440
+  s_b7ff51f33504f1::t_4a98b10d58d3cd 413-414,418,432,434
+  s_b7ff51f33504f1::t_8bf6d29959c600 433,437,441-469
+  s_b7ff51f33504f1::t_78f5b452a26843 408-410
+docs/framework/DECISIONS.md
+  s_b7ff51f33504f1::t_f05b2f000da362 36
+  s_b7ff51f33504f1::t_61e4309a7f5e41 56-59
+  s_b7ff51f33504f1::t_4867c33ee4a62d 35
+  s_b7ff51f33504f1::t_7a5447bb7a71e4 37
+aspec/train_entry.py
+  s_b7ff51f33504f1::t_b3192e21c7b61a 529,536-539
+  s_b7ff51f33504f1::t_3465773c8bc200 541
+docs/user-guide/sharing.md
+  s_b7ff51f33504f1::t_97ab87e113b58f 5,19,76-78,89-90,188-189
+  s_b7ff51f33504f1::t_3f0aab1d410264 79-81
+  s_b7ff51f33504f1::t_f0193a095666a4 86-88,91-93
+  s_b7ff51f33504f1::t_23ba52cdcea242 96
+  s_b7ff51f33504f1::t_4867c33ee4a62d 57-58,112,184-185
+  s_b7ff51f33504f1::t_154c4b2e280f2f 126,160,165
+  s_b7ff51f33504f1::t_40167824997734 83-84
+  s_b7ff51f33504f1::t_ef3e140465bd03 186
+  s_b7ff51f33504f1::t_8d935922ceb548 59
+  s_b7ff51f33504f1::t_b3192e21c7b61a 94-95
+  s_b7ff51f33504f1::t_4521f797f04e50 108,123,130,177-178
+  s_b7ff51f33504f1::t_15dfceabf70f47 82,85,97-107,109-111,113-122,124-125,127-129,131-159,161-164,166-176,179-183
+aspec/multi_draft.py
+  s_b7ff51f33504f1::t_4867c33ee4a62d 196,480
+  s_b7ff51f33504f1::t_c76c8ccd857b4d 477-478
+  s_b7ff51f33504f1::t_8bf6d29959c600 26,385-386,388-390,392-396
+  s_b7ff51f33504f1::t_216b284182b118 43
+  s_b7ff51f33504f1::t_b3192e21c7b61a 376-384,387,391,397-404
+  s_b7ff51f33504f1::t_97ab87e113b58f 49,875-879
+  s_b7ff51f33504f1::t_bc8c368406c846 42,155-159,183-184,187-194,206-224,356-360,472-476,485-486,488-490,494,509-510,517,524-526,601,607-611,855-856
+  s_b7ff51f33504f1::t_38fd0ef4deb849 857-858
+configs/recipes/README.md
+  s_b7ff51f33504f1::t_15dfceabf70f47 14-15
+docs/aspec.zh-CN.md
+  s_b7ff51f33504f1::t_aea9ba1021c76a 125
+README.md
+  s_b7ff51f33504f1::t_154c4b2e280f2f 28-29
+tests/test_inference_manager_lifecycle.py
+  s_b7ff51f33504f1::t_ac7bbecbc8a6b1 339-340,394-396,402
+README_zh-CN.md
+  s_b7ff51f33504f1::t_4867c33ee4a62d 25
+configs/recipes/qwen3_8b_4k_multinode_multi_draft_nvlink.yaml
+  s_b7ff51f33504f1::t_0cb08d0b2e9d2d 118
+  s_b7ff51f33504f1::t_cae9993b43c921 42
+  s_b7ff51f33504f1::t_fe45e11ea2bf4e 1-25,28-41,43-117,119-155
+  s_b7ff51f33504f1::t_4867c33ee4a62d 26-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5b06315e6a023d742388d9bef84a76333aa1196b",
+  "prompts": {},
+  "sessions": {
+    "s_b7ff51f33504f1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ba0c-aafb-7911-a26d-75d69658f901",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}
