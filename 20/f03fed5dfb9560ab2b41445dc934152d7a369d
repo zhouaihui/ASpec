@@ -1,0 +1,140 @@
+configs/recipes/README.md
+  s_b7ff51f33504f1::t_15dfceabf70f47 14-15
+docs/framework/ROADMAP.md
+  s_b7ff51f33504f1::t_eb6c7c71829b31 10
+docs/user-guide/multinode.md
+  s_b7ff51f33504f1::t_cb077e9dcf7447 6-7
+aspec/train_entry.py
+  s_b7ff51f33504f1::t_3465773c8bc200 541
+  s_b7ff51f33504f1::t_b3192e21c7b61a 529,536-539
+aspec/controller/inference_manager.py
+  s_b7ff51f33504f1::t_39023666b5923f 777-781
+  s_b7ff51f33504f1::t_5dad24c925dc1b 877-884,915-925
+  s_b7ff51f33504f1::t_38fd0ef4deb849 876
+  s_b7ff51f33504f1::t_fff1cc9500f8c5 59,905-906
+  s_b7ff51f33504f1::t_d8c0b0bc329533 900-904,1003-1007,1053,1077-1080
+docs/user-guide/recipes.md
+  s_b7ff51f33504f1::t_b3192e21c7b61a 29
+  s_b7ff51f33504f1::t_15dfceabf70f47 85-88
+tests/test_inference_manager_lifecycle.py
+  s_b7ff51f33504f1::t_fb4d61fbd2452e 62-79
+  s_b7ff51f33504f1::t_ac7bbecbc8a6b1 357-358,416-418,424
+  s_b7ff51f33504f1::t_fff1cc9500f8c5 399-403
+tests/test_startup_cleanup.py
+  s_b7ff51f33504f1::t_7030196bc96997 21,24-27,29,31-38
+tests/test_release_recipes.py
+  s_b7ff51f33504f1::t_b3192e21c7b61a 40,47,76,86
+aspec/controller/shared_source.py
+  s_b7ff51f33504f1::t_fc5b5500599dd3 29,103-108,286-291,333-344,368-371
+  s_b7ff51f33504f1::t_5dad24c925dc1b 91-93,95,97-102,110,247,253,306-307,416-417,420-421,536-537,546-547,549-558,696
+  s_b7ff51f33504f1::t_a5d2d448d7d230 131,248-252,308,318-329,361-363,365-367,372-375,377,385,389-390,418-419,428,495,534-535,538-545,548,671,678
+  s_b7ff51f33504f1::t_a8ff9c1723dc27 559
+  s_b7ff51f33504f1::t_229d1dda25c797 109,330-331,351-360,364,376,378-384,386-388,391-399,675
+  s_b7ff51f33504f1::t_448e4fbeda36bb 596-597,614-615
+.github/workflows/ci.yml
+  s_b7ff51f33504f1::t_bd77915a2d2828 77-80
+aspec/commands/recipes.py
+  s_b7ff51f33504f1::t_b3192e21c7b61a 394,428
+tools/recipe_catalog.json
+  s_b7ff51f33504f1::t_b3192e21c7b61a 114-115,139-150
+docs/user-guide/sharing.md
+  s_b7ff51f33504f1::t_4867c33ee4a62d 57-58,194-195
+  s_b7ff51f33504f1::t_97ab87e113b58f 5,19,76-78,89-90,198-199
+  s_b7ff51f33504f1::t_40167824997734 83-84
+  s_b7ff51f33504f1::t_72d75664d6be04 119-122
+  s_b7ff51f33504f1::t_ef3e140465bd03 196
+  s_b7ff51f33504f1::t_39023666b5923f 99-101
+  s_b7ff51f33504f1::t_3f0aab1d410264 79-81
+  s_b7ff51f33504f1::t_85a1441060b263 117-118
+  s_b7ff51f33504f1::t_154c4b2e280f2f 136,170,175
+  s_b7ff51f33504f1::t_4521f797f04e50 115,133,140,187-188
+  s_b7ff51f33504f1::t_8d935922ceb548 59
+  s_b7ff51f33504f1::t_15dfceabf70f47 82,85,104-114,116,123-132,134-135,137-139,141-169,171-174,176-186,189-193
+  s_b7ff51f33504f1::t_bbf24fda4f3223 92-95,98
+  s_b7ff51f33504f1::t_d8736ea5b8d8e7 96-97,102
+  s_b7ff51f33504f1::t_f0193a095666a4 86-88,91
+  s_b7ff51f33504f1::t_935d7964470a81 103
+docs/aspec.zh-CN.md
+  s_b7ff51f33504f1::t_bbf24fda4f3223 125
+tests/test_shared_source.py
+  s_b7ff51f33504f1::t_85a1441060b263 862
+  s_b7ff51f33504f1::t_d6db35b83e9c70 727-746,749-754,756-766,769-798,812-818
+  s_b7ff51f33504f1::t_e426e05f39b4a2 18,819-861,863-864
+  s_b7ff51f33504f1::t_448e4fbeda36bb 799-811
+  s_b7ff51f33504f1::t_f174bd123797c0 673-705,709,711,713,715
+  s_b7ff51f33504f1::t_177e03e8ee095e 706-708,710,712,714,716-726
+  s_b7ff51f33504f1::t_fff1cc9500f8c5 140-143
+  s_b7ff51f33504f1::t_51a73be1b1331e 747-748,755,767-768
+tools/recipes.py
+  s_b7ff51f33504f1::t_23e7c8713aa3fc 209-211
+docs/framework/DECISIONS.md
+  s_b7ff51f33504f1::t_bbf24fda4f3223 35
+  s_b7ff51f33504f1::t_39023666b5923f 36-37
+  s_b7ff51f33504f1::t_61e4309a7f5e41 56-59
+tests/test_multi_draft_plan.py
+  s_b7ff51f33504f1::t_f174bd123797c0 291-298,300-332,335-336
+  s_b7ff51f33504f1::t_8a963945ecee79 348-357
+  s_b7ff51f33504f1::t_fff1cc9500f8c5 333-334,337-347
+  s_b7ff51f33504f1::t_6b36819a6bfc9a 299
+docs/support.md
+  s_b7ff51f33504f1::t_53c8190ccca58b 31
+  s_b7ff51f33504f1::t_39023666b5923f 33-34
+  s_b7ff51f33504f1::t_7a5447bb7a71e4 52-54
+  s_b7ff51f33504f1::t_bbf24fda4f3223 32
+aspec/multi_draft.py
+  s_b7ff51f33504f1::t_4867c33ee4a62d 197,481
+  s_b7ff51f33504f1::t_8a963945ecee79 150
+  s_b7ff51f33504f1::t_8bf6d29959c600 26,386-387,389-391,393-397
+  s_b7ff51f33504f1::t_b3192e21c7b61a 377-385,388,392,398-405
+  s_b7ff51f33504f1::t_97ab87e113b58f 49,876-880
+  s_b7ff51f33504f1::t_d8c0b0bc329533 159-160
+  s_b7ff51f33504f1::t_216b284182b118 43
+  s_b7ff51f33504f1::t_bc8c368406c846 42,156-158,184-185,188-195,207-225,357-361,473-477,486-487,489-491,495,510-511,518,525-527,602,608-612,856-857
+  s_b7ff51f33504f1::t_c76c8ccd857b4d 478-479
+  s_b7ff51f33504f1::t_38fd0ef4deb849 858-859
+tests/test_multi_draft_runtime.py
+  s_b7ff51f33504f1::t_4a98b10d58d3cd 413-414,418,432,434
+  s_b7ff51f33504f1::t_78f5b452a26843 408-410
+  s_b7ff51f33504f1::t_5a911c7a880767 411-412,415-417,419-431,435-436,438-440
+  s_b7ff51f33504f1::t_8bf6d29959c600 433,437,441-469
+  s_b7ff51f33504f1::t_97ab87e113b58f 279,390-407
+  s_b7ff51f33504f1::t_38fd0ef4deb849 46-52,54-58
+docs/framework/ARCHITECTURE.md
+  s_b7ff51f33504f1::t_0cb08d0b2e9d2d 82-84
+  s_b7ff51f33504f1::t_4867c33ee4a62d 78
+  s_b7ff51f33504f1::t_bbf24fda4f3223 79-80
+  s_b7ff51f33504f1::t_55c626761e4beb 81
+configs/recipes/qwen3_8b_4k_multinode_multi_draft_nvlink.yaml
+  s_b7ff51f33504f1::t_fe45e11ea2bf4e 1-25,28-41,43-77,79-117,119-155
+  s_b7ff51f33504f1::t_cae9993b43c921 42
+  s_b7ff51f33504f1::t_4867c33ee4a62d 26-27
+  s_b7ff51f33504f1::t_0cb08d0b2e9d2d 118
+  s_b7ff51f33504f1::t_bbf24fda4f3223 78
+docs/contributing/validation.md
+  s_b7ff51f33504f1::t_4867c33ee4a62d 154-163
+  s_b7ff51f33504f1::t_bd1c77db7fc8c3 18
+  s_b7ff51f33504f1::t_783f70ff3c2179 164
+README_zh-CN.md
+  s_b7ff51f33504f1::t_4867c33ee4a62d 25
+ROADMAP.md
+  s_b7ff51f33504f1::t_bbf24fda4f3223 19
+  s_b7ff51f33504f1::t_58b11a2908cc7b 20
+README.md
+  s_b7ff51f33504f1::t_154c4b2e280f2f 28-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "20f03fed5dfb9560ab2b41445dc934152d7a369d",
+  "prompts": {},
+  "sessions": {
+    "s_b7ff51f33504f1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ba0c-aafb-7911-a26d-75d69658f901",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}
