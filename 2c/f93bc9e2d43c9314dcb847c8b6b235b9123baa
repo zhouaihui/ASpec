@@ -11,6 +11,7 @@ tests/test_multi_draft_runtime.py
   s_b7ff51f33504f1::t_4a98b10d58d3cd 413-414,418,432,434
   s_b7ff51f33504f1::t_38fd0ef4deb849 46-52,54-58
   s_b7ff51f33504f1::t_78f5b452a26843 408-410
+  s_b7ff51f33504f1::t_97ab87e113b58f 279,390-407
 tests/test_multi_draft_plan.py
   s_b7ff51f33504f1::t_f174bd123797c0 291-298,300-339
   s_b7ff51f33504f1::t_6b36819a6bfc9a 299
@@ -73,6 +74,8 @@ docs/user-guide/sharing.md
   s_b7ff51f33504f1::t_f0193a095666a4 86-88,91-93
   s_b7ff51f33504f1::t_23ba52cdcea242 96
   s_b7ff51f33504f1::t_ef3e140465bd03 186
+  s_b7ff51f33504f1::t_97ab87e113b58f 5,19,76-78,89-90,188-189
+  s_b7ff51f33504f1::t_154c4b2e280f2f 126,160,165
 aspec/multi_draft.py
   s_b7ff51f33504f1::t_38fd0ef4deb849 857-858
   s_b7ff51f33504f1::t_8bf6d29959c600 26,385-386,388-390,392-396
@@ -81,6 +84,7 @@ aspec/multi_draft.py
   s_b7ff51f33504f1::t_b3192e21c7b61a 376-384,387,391,397-404
   s_b7ff51f33504f1::t_216b284182b118 43
   s_b7ff51f33504f1::t_c76c8ccd857b4d 477-478
+  s_b7ff51f33504f1::t_97ab87e113b58f 49,875-879
 docs/aspec.zh-CN.md
   s_b7ff51f33504f1::t_aea9ba1021c76a 125
 docs/framework/ROADMAP.md
@@ -89,6 +93,8 @@ docs/user-guide/multinode.md
   s_b7ff51f33504f1::t_cb077e9dcf7447 6-7
 tests/test_inference_manager_lifecycle.py
   s_b7ff51f33504f1::t_ac7bbecbc8a6b1 339-340,394-396,402
+README.md
+  s_b7ff51f33504f1::t_154c4b2e280f2f 28-29
 ---
 {
   "schema_version": "authorship/3.0.0",
