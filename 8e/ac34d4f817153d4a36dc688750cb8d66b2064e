@@ -1,0 +1,30 @@
+docs/benchmarks/qwen3.5-9b-throughput.json
+  s_d223396f4bf2c9::t_14f91e9ddbe64e 1-551
+README_zh-CN.md
+  s_d223396f4bf2c9::t_14f91e9ddbe64e 72
+README.md
+  s_d223396f4bf2c9::t_14f91e9ddbe64e 84
+docs/benchmarks/results.md
+  s_d223396f4bf2c9::t_14f91e9ddbe64e 3-7,20-24,31,35-36,40,43-47,61-62,76,111-112,128,132-133,137-139,164-207,210-211,220-223,228-242
+  s_d223396f4bf2c9::t_b6d1cc5e436b2b 243
+docs/assets/benchmark-steady-throughput.svg
+  s_d223396f4bf2c9::t_2a14af66b2d394 1-4,18-177
+docs/user-guide/benchmarks.md
+  s_d223396f4bf2c9::t_ef8feecde61cd3 10,19-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8eac34d4f817153d4a36dc688750cb8d66b2064e",
+  "prompts": {},
+  "sessions": {
+    "s_d223396f4bf2c9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1be15-c610-7812-b09f-05be201cadd4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
