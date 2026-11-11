@@ -1,0 +1,27 @@
+aspec/models/ops/flex_attention.py
+  s_9e2b2ec9f51378::t_4d2ebf5a276b1c 21-24,89-93
+docs/user-guide/configuration.md
+  s_9e2b2ec9f51378::t_4d2ebf5a276b1c 107-114
+tests/test_flex_attention_backend.py
+  s_9e2b2ec9f51378::t_1f44736beead02 1-48
+tests/test_flex_attention.py
+  s_9e2b2ec9f51378::t_1f44736beead02 516-551
+.github/workflows/ci.yml
+  s_9e2b2ec9f51378::t_4e05914c666551 73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d10de26bb01e0daa06a063e422c155c4c112c3d2",
+  "prompts": {},
+  "sessions": {
+    "s_9e2b2ec9f51378": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c359-5c1d-7f23-952f-a333b0bb221b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
