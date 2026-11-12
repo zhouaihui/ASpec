@@ -1,0 +1,81 @@
+docs/user-guide/installation.md
+  s_a10e1cbfc3a986::t_55d71e527db270 16,21,24-26,30-39,80-81,86-88
+  s_a10e1cbfc3a986::t_a5b744105824e3 40-41
+aspec/compat/sglang_patch.py
+  s_a10e1cbfc3a986::t_03b5eaff508966 107-109
+aspec/inference/engine/target_actor.py
+  s_a10e1cbfc3a986::t_0012fdced5f730 55
+  s_a10e1cbfc3a986::t_327a0f3a4f05c3 56
+aspec/_target_worker.py
+  s_a10e1cbfc3a986::t_c7572115bd992b 6,13-16
+aspec/planning.py
+  s_a10e1cbfc3a986::t_2b5eb02ca6dfb5 1592
+aspec/_environment.py
+  s_a10e1cbfc3a986::t_8721c2ec734e51 43-46
+tests/test_dependency_audit.py
+  s_a10e1cbfc3a986::t_8d5c05fbc8f2f5 26,41
+aspec/training/trainer_actor.py
+  s_a10e1cbfc3a986::t_55d71e527db270 186,200
+  s_a10e1cbfc3a986::t_8d5c05fbc8f2f5 183
+  s_a10e1cbfc3a986::t_0012fdced5f730 185
+README.md
+  s_a10e1cbfc3a986::t_55d71e527db270 63-64,67,71-72
+  s_a10e1cbfc3a986::t_ae25f126174f67 73
+docs/releasing.md
+  s_a10e1cbfc3a986::t_55d71e527db270 3-4,41
+aspec/ray/cluster_preflight.py
+  s_a10e1cbfc3a986::t_8721c2ec734e51 286-287,314-324,332,334,400-404,1180-1181
+docs/user-guide/installation-advanced.md
+  s_a10e1cbfc3a986::t_55d71e527db270 4,8,10-13,23-28,66-69,100,172
+aspec/cli.py
+  s_a10e1cbfc3a986::t_03b5eaff508966 16,19
+  s_a10e1cbfc3a986::t_a5b744105824e3 17,51-70
+docs/framework/DECISIONS.md
+  s_a10e1cbfc3a986::t_55d71e527db270 22,24-29
+aspec/inference/factory.py
+  s_a10e1cbfc3a986::t_03b5eaff508966 26,256-257
+  s_a10e1cbfc3a986::t_c7572115bd992b 266-267
+  s_a10e1cbfc3a986::t_0012fdced5f730 24
+aspec/commands/doctor.py
+  s_a10e1cbfc3a986::t_03b5eaff508966 32,58-62,92
+tools/build_release.py
+  s_a10e1cbfc3a986::t_0012fdced5f730 16,20-21
+Dockerfile
+  s_a10e1cbfc3a986::t_55d71e527db270 9-10
+.github/workflows/ci.yml
+  s_a10e1cbfc3a986::t_a5b744105824e3 65
+tests/test_target_environment.py
+  s_a10e1cbfc3a986::t_f916f8d6c1f2a9 1-62,65-70,73-80
+  s_a10e1cbfc3a986::t_2b5eb02ca6dfb5 63-64,71-72,97-111
+  s_a10e1cbfc3a986::t_c7572115bd992b 81-96
+aspec/config/train_config.py
+  s_a10e1cbfc3a986::t_2b5eb02ca6dfb5 1009-1012
+aspec/inference/engine/__init__.py
+  s_a10e1cbfc3a986::t_a5b744105824e3 22-23,25-34
+README_zh-CN.md
+  s_a10e1cbfc3a986::t_8d5c05fbc8f2f5 58
+  s_a10e1cbfc3a986::t_55d71e527db270 61,65-66
+  s_a10e1cbfc3a986::t_283c70116a4779 67
+aspec/inference/target_runtime.py
+  s_a10e1cbfc3a986::t_55d71e527db270 24-33
+  s_a10e1cbfc3a986::t_8721c2ec734e51 6-7,34-50
+  s_a10e1cbfc3a986::t_e4b4f9aff24a6e 23,51
+tools/audit_release.py
+  s_a10e1cbfc3a986::t_8d5c05fbc8f2f5 143-146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0520c70a7fd424cc0481a738c8fb356b5d9495ca",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
