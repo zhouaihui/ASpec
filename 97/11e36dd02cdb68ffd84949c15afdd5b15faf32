@@ -1,0 +1,84 @@
+tests/cpu/test_renderer_registry.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-504
+tests/source/test_source_quality_contracts.py
+  s_6d12c13eb37693::t_d3a8ac79d3a7bc 63-64,231,233
+  s_6d12c13eb37693::t_48a4cade519b76 1-62,65-230,232
+tests/cpu/test_stage_recipe_inputs.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-56
+tests/cpu/test_sglang_patch_contract.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-128
+CONTRIBUTING.md
+  s_6d12c13eb37693::t_d3a8ac79d3a7bc 34-45
+tools/recipes.py
+  s_6d12c13eb37693::t_48a4cade519b76 195-199,201,205
+tests/cpu/test_capacity_handling.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-841
+.github/workflows/ci.yml
+  s_6d12c13eb37693::t_d3a8ac79d3a7bc 54,57,60
+tests/cpu/test_dependency_audit.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-70
+tests/cpu/test_wheel_assets.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-85
+tests/cpu/test_draft_model_config.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-214
+tests/cpu/test_training_config_validation.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-744
+tests/cpu/test_recipe_node_loss.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-77
+tests/cpu/test_release_audit.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-133
+tests/cpu/test_planning.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-1157
+tests/cpu/test_release_recipes.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-85,87-283
+tests/cpu/test_eagle4_moe.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-157
+tests/cpu/test_target_lm_head.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-244
+tests/cpu/test_fa4_import_compat.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-107
+tests/cpu/test_shipped_config_defaults.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-62
+tests/cpu/test_node_local_files.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-111
+tests/cpu/test_dspark_teacher_contract.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-81
+tests/cpu/test_dependency_extras.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-62
+tests/cpu/test_cudnn_gqa_mode.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-125
+tests/cpu/test_reporting.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-228
+tests/cpu/test_eagle4.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-397
+tests/cpu/test_owner_fence.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-139
+tests/cpu/test_recipe_capacity.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-74
+tests/cpu/test_eagle4_validation.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-40
+tests/cpu/test_open_source_entrypoints.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-180
+tests/cpu/test_draft_dsa.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-606
+tests/cpu/test_environment_scripts.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-91
+tests/cpu/test_onboarding.py
+  s_6d12c13eb37693::t_48a4cade519b76 1-190
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9711e36dd02cdb68ffd84949c15afdd5b15faf32",
+  "prompts": {},
+  "sessions": {
+    "s_6d12c13eb37693": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cec5-d02d-7ea3-a3da-2580dd49284a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
