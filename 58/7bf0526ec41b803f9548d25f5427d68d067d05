@@ -1,0 +1,31 @@
+tests/test_target_environment.py
+  s_a10e1cbfc3a986::t_2a7148ca9bd7f4 111
+CHANGELOG.md
+  s_a10e1cbfc3a986::t_3870e7a5b66416 5-10
+docs/user-guide/data.md
+  s_a10e1cbfc3a986::t_3f84074f037ac8 6-8
+docs/user-guide/evaluation.md
+  s_a10e1cbfc3a986::t_48f8f974f4b5b7 5-7
+docs/user-guide/installation.md
+  s_a10e1cbfc3a986::t_7e2929f8eb4776 51
+tests/test_release_audit.py
+  s_a10e1cbfc3a986::t_e4983e5a38aae2 88-90
+tools/audit_release.py
+  s_a10e1cbfc3a986::t_3ad2bc4fbe1088 77,85-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "587bf0526ec41b803f9548d25f5427d68d067d05",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
