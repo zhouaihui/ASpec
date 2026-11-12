@@ -1,0 +1,54 @@
+tests/test_open_source_entrypoints.py
+  s_a10e1cbfc3a986::t_b516a3893c4b50 70-117
+docs/releasing.md
+  s_a10e1cbfc3a986::t_abb16b202945cc 1,3,7-10,12,14-16,19,22-25,27-30,32-34,36-44,46-47,51-64
+tests/test_dependency_extras.py
+  s_a10e1cbfc3a986::t_b516a3893c4b50 63-76
+tests/test_dependency_audit.py
+  s_a10e1cbfc3a986::t_b516a3893c4b50 58-76
+docs/framework/DECISIONS.md
+  s_a10e1cbfc3a986::t_c49cb074d507ee 24-27
+  s_a10e1cbfc3a986::t_66fc6057951d99 13-14
+docs/user-guide/installation.md
+  s_a10e1cbfc3a986::t_f9c7159ddc03b5 3-6,8,11,13,29-30,32,35,38,47,49,52-54,57-60,62,65-66,69-70,72,74,76,78-79
+  s_a10e1cbfc3a986::t_c49cb074d507ee 16-17,19-21,24,27-28,39,41,43-45,75
+CHANGELOG.md
+  s_a10e1cbfc3a986::t_c49cb074d507ee 5-6
+README_zh-CN.md
+  s_a10e1cbfc3a986::t_afc717b1e60d9c 50,52,54-57,59-64,66-69,78-80
+  s_a10e1cbfc3a986::t_c49cb074d507ee 58,65
+tools/check_wheel_install.py
+  s_a10e1cbfc3a986::t_c49cb074d507ee 89-91
+docs/user-guide/installation-advanced.md
+  s_a10e1cbfc3a986::t_e2d01697ccef00 3,18-19
+  s_a10e1cbfc3a986::t_c49cb074d507ee 10-14,81-82
+aspec/compat/sglang_patch.py
+  s_a10e1cbfc3a986::t_8b2896eddee9d1 15,21,26-28,95-109,115-121
+  s_a10e1cbfc3a986::t_c49cb074d507ee 132
+aspec/commands/doctor.py
+  s_a10e1cbfc3a986::t_8b2896eddee9d1 74,76,85,91-94,100-109,135,138
+  s_a10e1cbfc3a986::t_b516a3893c4b50 99
+pyproject.toml
+  s_a10e1cbfc3a986::t_8b2896eddee9d1 15,17,19-21,25-27,36-37,39-41,43-44
+README.md
+  s_a10e1cbfc3a986::t_c49cb074d507ee 63-64,72
+  s_a10e1cbfc3a986::t_afc717b1e60d9c 55,57,59-61,65-71,74,76,86-87,91-92
+  s_a10e1cbfc3a986::t_d12faeee708253 73
+  s_a10e1cbfc3a986::t_5228bdd1ca25e4 93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eeec38fcdc2c019d4af63af594c5eecef33283ad",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
