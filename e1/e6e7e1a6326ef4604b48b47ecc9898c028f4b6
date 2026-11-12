@@ -1,0 +1,102 @@
+README.md
+  s_a10e1cbfc3a986::t_ec854c67f43929 69,72-74
+docs/user-guide/installation-advanced.md
+  s_a10e1cbfc3a986::t_35e19d76411ec1 14-19,40,101
+aspec/train_entry.py
+  s_a10e1cbfc3a986::t_bdd85fe7c5d449 414-416
+  s_a10e1cbfc3a986::t_02cf178f654722 534-540
+aspec/ray/placement_group.py
+  s_a10e1cbfc3a986::t_448e1d7459425c 26,338-344
+aspec/ray/cluster_preflight.py
+  s_a10e1cbfc3a986::t_02cf178f654722 287,316-317,320-321,323,1176-1178,1186
+README_zh-CN.md
+  s_a10e1cbfc3a986::t_ec854c67f43929 63,67
+  s_a10e1cbfc3a986::t_35e19d76411ec1 66
+aspec/multi_draft.py
+  s_a10e1cbfc3a986::t_bdd85fe7c5d449 495-497
+docs/user-guide/installation.md
+  s_a10e1cbfc3a986::t_ec854c67f43929 29,35,38,41-45,85,97-112
+aspec/inference/managed.py
+  s_a10e1cbfc3a986::t_a0df677d4e6e91 59-60
+  s_a10e1cbfc3a986::t_02cf178f654722 1-58,61-81
+tests/test_target_environment.py
+  s_a10e1cbfc3a986::t_9c294500cd64c7 25-26,53,65,68,75,77-80
+aspec/config/train_config.py
+  s_a10e1cbfc3a986::t_bdd85fe7c5d449 1009-1023
+aspec/planning.py
+  s_a10e1cbfc3a986::t_bdd85fe7c5d449 1592
+tests/test_target_service.py
+  s_a10e1cbfc3a986::t_9c294500cd64c7 1-14,22-50,65-180
+  s_a10e1cbfc3a986::t_fbb28057190984 15-21
+  s_a10e1cbfc3a986::t_f3f2b23a2be0c8 51-64
+aspec/inference/service_client.py
+  s_a10e1cbfc3a986::t_ae0ae5b81b28d4 1-91
+.github/workflows/ci.yml
+  s_a10e1cbfc3a986::t_fbb28057190984 66
+docs/user-guide/evaluation.md
+  s_a10e1cbfc3a986::t_ec854c67f43929 5
+docs/user-guide/data.md
+  s_a10e1cbfc3a986::t_ec854c67f43929 6
+aspec/commands/recipes.py
+  s_a10e1cbfc3a986::t_a0df677d4e6e91 268-270,273,359,394,406,408,424,481,508
+docs/user-guide/containers.md
+  s_a10e1cbfc3a986::t_a0df677d4e6e91 30-33
+aspec/commands/quickstart.py
+  s_a10e1cbfc3a986::t_448e1d7459425c 57,62-63
+aspec/offline/generate.py
+  s_a10e1cbfc3a986::t_a0df677d4e6e91 34,169-170,217-218
+aspec/cli.py
+  s_a10e1cbfc3a986::t_448e1d7459425c 26-27,63-64
+aspec/_target_worker.py
+  s_a10e1cbfc3a986::t_a0df677d4e6e91 3,20
+CHANGELOG.md
+  s_a10e1cbfc3a986::t_a0df677d4e6e91 7-9
+aspec/ray/ray_actor.py
+  s_a10e1cbfc3a986::t_bdd85fe7c5d449 59-64
+aspec/inference/service.py
+  s_a10e1cbfc3a986::t_9e7787efde2d93 1-24,33-73,75-105,111-123,137-161,166-185,187,193-228,233-266,268-292,295-323
+  s_a10e1cbfc3a986::t_35e19d76411ec1 124-136,186
+  s_a10e1cbfc3a986::t_fbb28057190984 25-32
+  s_a10e1cbfc3a986::t_a0df677d4e6e91 74,106-110,229-232,267
+  s_a10e1cbfc3a986::t_ec854c67f43929 293-294
+  s_a10e1cbfc3a986::t_02cf178f654722 162-165,188-192
+aspec/controller/loop.py
+  s_a10e1cbfc3a986::t_448e1d7459425c 618-622
+aspec/config/inference_config.py
+  s_a10e1cbfc3a986::t_bdd85fe7c5d449 166-173,176
+  s_a10e1cbfc3a986::t_b85581164d9cf7 165
+docs/framework/ARCHITECTURE.md
+  s_a10e1cbfc3a986::t_35e19d76411ec1 25-31
+aspec/inference/factory.py
+  s_a10e1cbfc3a986::t_bdd85fe7c5d449 245,249,251-260,285
+  s_a10e1cbfc3a986::t_fbb28057190984 261-263
+aspec/inference/service_protocol.py
+  s_a10e1cbfc3a986::t_9c294500cd64c7 106
+  s_a10e1cbfc3a986::t_ae0ae5b81b28d4 1-105,107-113
+aspec/training/trainer_actor.py
+  s_a10e1cbfc3a986::t_448e1d7459425c 183,195
+docs/framework/DECISIONS.md
+  s_a10e1cbfc3a986::t_35e19d76411ec1 26-32
+tests/test_release_audit.py
+  s_a10e1cbfc3a986::t_35e19d76411ec1 90-94
+aspec/offline/saving_actor.py
+  s_a10e1cbfc3a986::t_a0df677d4e6e91 61-62,67
+tools/audit_release.py
+  s_a10e1cbfc3a986::t_fbb28057190984 88-91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e1e6e7e1a6326ef4604b48b47ecc9898c028f4b6",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
