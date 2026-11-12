@@ -1,0 +1,33 @@
+aspec/inference/engine/target_actor.py
+  s_a10e1cbfc3a986::t_01a651d3fac1e9 51,66
+tests/test_target_service.py
+  s_a10e1cbfc3a986::t_d11eb42373cd14 127-146
+  s_a10e1cbfc3a986::t_01a651d3fac1e9 74-75,77-78
+aspec/inference/service.py
+  s_a10e1cbfc3a986::t_01a651d3fac1e9 122,128-129,204-209,219-232,239-277
+  s_9e2b2ec9f51378::t_cbf53b2257e82c 278-279
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "19f9c1a048b270f8923fdaa5bf1dd52b99586cc1",
+  "prompts": {},
+  "sessions": {
+    "s_9e2b2ec9f51378": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c359-5c1d-7f23-952f-a333b0bb221b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    },
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
