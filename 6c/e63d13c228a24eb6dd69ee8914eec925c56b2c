@@ -1,0 +1,41 @@
+.github/workflows/ci.yml
+  s_a10e1cbfc3a986::t_e4d2586df7e08b 74-76
+aspec/controller/eval.py
+  s_a10e1cbfc3a986::t_259ad440e25397 123-126,148-149,153-156
+aspec/controller/loop.py
+  s_a10e1cbfc3a986::t_a0a05d4701943c 1998-2001
+aspec/models/dflash.py
+  s_a10e1cbfc3a986::t_9970ec6a82147e 1034
+aspec/models/dmtp.py
+  s_a10e1cbfc3a986::t_d1142e79152458 157-161
+aspec/models/dspark.py
+  s_a10e1cbfc3a986::t_1bd8996923ae31 164,166-167,240-241,535
+aspec/reporting.py
+  s_a10e1cbfc3a986::t_f656c69ccf2681 342-343
+aspec/training/dflash_trainer.py
+  s_a10e1cbfc3a986::t_8b0c3ecae8f335 678-681,708,722,727,730-731,738,894,908,913,921-922
+examples/qwen3.5-9b-dmtp/README.md
+  s_a10e1cbfc3a986::t_e2457f546ca58f 55-58
+tests/test_dmtp.py
+  s_a10e1cbfc3a986::t_f93d41331f8fed 6-8,55-205,369-420,422-423,430-431,439-445,460-468
+tests/test_evaluation_contract.py
+  s_a10e1cbfc3a986::t_f23d393bb134b6 68-69,86-87
+tools/recipes.py
+  s_a10e1cbfc3a986::t_6b84fe523b8c28 207-209
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6ce63d13c228a24eb6dd69ee8914eec925c56b2c",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
