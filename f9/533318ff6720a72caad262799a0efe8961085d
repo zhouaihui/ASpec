@@ -1,0 +1,24 @@
+aspec/inference/service.py
+  s_a10e1cbfc3a986::t_60f676c3023949 125,142-144,396
+  s_a10e1cbfc3a986::t_1c2f647343e533 90-92,115-116,118,261-271
+  s_a10e1cbfc3a986::t_9018436e8c4e57 272-273
+tests/test_target_service.py
+  s_a10e1cbfc3a986::t_60f676c3023949 117-127,141-142
+  s_a10e1cbfc3a986::t_1c2f647343e533 86-87,128-140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f9533318ff6720a72caad262799a0efe8961085d",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
