@@ -1,0 +1,25 @@
+aspec/inference/factory.py
+  s_a10e1cbfc3a986::t_e6706a358377d6 256-257
+aspec/ray/cluster_preflight.py
+  s_a10e1cbfc3a986::t_e6706a358377d6 288,333,397-406,408-409,415,418,421,431-434,1174-1178,1186
+tests/test_cluster_preflight.py
+  s_a10e1cbfc3a986::t_b602b4afbc30a6 126-142
+aspec/utils/env.py
+  s_a10e1cbfc3a986::t_bbe5fbe9d44548 87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "06c0018fe8a662dfc0b103e8f1dc8cf4f7727f3a",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
