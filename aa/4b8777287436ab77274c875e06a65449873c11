@@ -1,0 +1,35 @@
+requirements/ci-cpu.txt
+  s_a10e1cbfc3a986::t_203867e910dabd 2
+CONTRIBUTING.md
+  s_a10e1cbfc3a986::t_203867e910dabd 24,28,30-32
+docs/user-guide/installation.md
+  s_a10e1cbfc3a986::t_203867e910dabd 4-5
+tests/test_evidence.py
+  s_a10e1cbfc3a986::t_c7342497602053 234-235,244-252,255-257,714-717,780-783,937
+  s_a10e1cbfc3a986::t_36935e17202b8e 429-455
+  s_a10e1cbfc3a986::t_203867e910dabd 253-254
+aspec/inference/engine/target_actor.py
+  s_a10e1cbfc3a986::t_a424a777849fee 56,58-63,71-72
+aspec/evidence.py
+  s_a10e1cbfc3a986::t_a424a777849fee 308,433-443
+docs/user-guide/installation-advanced.md
+  s_a10e1cbfc3a986::t_203867e910dabd 33
+aspec/_environment.py
+  s_a10e1cbfc3a986::t_3de41c45604a86 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "aa4b8777287436ab77274c875e06a65449873c11",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
