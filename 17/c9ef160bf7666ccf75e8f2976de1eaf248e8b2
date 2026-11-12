@@ -1,0 +1,71 @@
+docs/releasing.md
+  s_a10e1cbfc3a986::t_bda4e52d933936 52-54,89-96,98-101,103-112,165
+  s_a10e1cbfc3a986::t_0ed779e0cd5085 3-6,56-57,115-133,137-142,149,152-153,155-163,167-173
+  s_a10e1cbfc3a986::t_47348ca1e47e42 135-136
+  s_a10e1cbfc3a986::t_ee8484bbc23736 12-25,55,150-151,166
+  s_a10e1cbfc3a986::t_3b912e1fc7dd80 97,102,164
+  s_a10e1cbfc3a986::t_e727ae81f5f23a 154
+  s_a10e1cbfc3a986::t_3b75958edc8291 134
+README.md
+  s_a10e1cbfc3a986::t_9903630b571748 57-59
+tools/check_wheel_install.py
+  s_a10e1cbfc3a986::t_9f7da6678acc8d 47,53,61-63
+tests/test_convert_to_hf.py
+  s_a10e1cbfc3a986::t_9f7da6678acc8d 15
+  s_a10e1cbfc3a986::t_8cb0f2e093b9dd 58-60
+  s_a10e1cbfc3a986::t_ee8484bbc23736 57,87
+docs/framework/DECISIONS.md
+  s_a10e1cbfc3a986::t_0ed779e0cd5085 8-12
+  s_a10e1cbfc3a986::t_ee8484bbc23736 13-16
+CONTRIBUTING.md
+  s_a10e1cbfc3a986::t_3b912e1fc7dd80 36
+  s_a10e1cbfc3a986::t_bda4e52d933936 35,37-38
+tests/test_release_audit.py
+  s_a10e1cbfc3a986::t_ee8484bbc23736 31-32,37,42,48,56,60,107
+  s_a10e1cbfc3a986::t_9f7da6678acc8d 34,36,43,52,112-114
+  s_a10e1cbfc3a986::t_c771aa1cd59bc6 115-117
+.github/workflows/build-release.yml
+  s_a10e1cbfc3a986::t_f9fecec8ca30fb 4,20,87,90-92
+  s_a10e1cbfc3a986::t_9f7da6678acc8d 1,42,45-46,88-89,93-122
+aspec/commands/convert_to_hf.py
+  s_a10e1cbfc3a986::t_9f7da6678acc8d 103
+tools/audit_release.py
+  s_a10e1cbfc3a986::t_9f7da6678acc8d 141-142,187
+pyproject.toml
+  s_a10e1cbfc3a986::t_9f7da6678acc8d 6,39-42
+  s_a10e1cbfc3a986::t_ee8484bbc23736 7
+  s_a10e1cbfc3a986::t_172c90c1d6147d 43
+aspec/evidence.py
+  s_a10e1cbfc3a986::t_47348ca1e47e42 43
+  s_a10e1cbfc3a986::t_9f7da6678acc8d 182
+CHANGELOG.md
+  s_a10e1cbfc3a986::t_ee8484bbc23736 5-6
+  s_a10e1cbfc3a986::t_0ed779e0cd5085 7-8
+  s_a10e1cbfc3a986::t_3b912e1fc7dd80 9-10
+docs/user-guide/installation.md
+  s_a10e1cbfc3a986::t_0ed779e0cd5085 8-9,81,83-84
+  s_a10e1cbfc3a986::t_ee8484bbc23736 78,82
+  s_a10e1cbfc3a986::t_3d09bc06547e03 85
+tests/test_wheel_assets.py
+  s_a10e1cbfc3a986::t_9f7da6678acc8d 12,60
+  s_a10e1cbfc3a986::t_47348ca1e47e42 24,62-69,71
+  s_a10e1cbfc3a986::t_ee8484bbc23736 61,70,81
+README_zh-CN.md
+  s_a10e1cbfc3a986::t_9903630b571748 52-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "17c9ef160bf7666ccf75e8f2976de1eaf248e8b2",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
