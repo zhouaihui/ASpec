@@ -1,0 +1,154 @@
+tools/recipes.py
+  s_a10e1cbfc3a986::t_3988021e78600f 195-199,201,205,207-209
+.github/workflows/ci.yml
+  s_a10e1cbfc3a986::t_3988021e78600f 54,57,60
+aspec/draft_artifact.py
+  s_a10e1cbfc3a986::t_3988021e78600f 71-74,148-149
+tests/source/test_source_quality_contracts.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-233
+tests/cpu/test_recipe_capacity.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-74
+tests/cpu/test_reporting.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-228
+aspec/config/draft_algorithm.py
+  s_a10e1cbfc3a986::t_3988021e78600f 76-81
+tests/cpu/test_evaluation_contract.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-297
+tests/cpu/test_recipe_node_loss.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-77
+aspec/models/dflash.py
+  s_a10e1cbfc3a986::t_3988021e78600f 145-146,174-175,188-190,196-198,247,253-274,292-296,394-403,521,681-683,1017,1034,1052-1055,1072,1113,1136,1166-1168,1172,1174-1176,1181
+aspec/config/dflash_qwen3_5_9b_dmtp_config.json
+  s_a10e1cbfc3a986::t_3988021e78600f 1-106
+tests/test_flex_attention.py
+  s_a10e1cbfc3a986::t_3988021e78600f 516-551
+configs/recipes/README.md
+  s_a10e1cbfc3a986::t_3988021e78600f 16-17
+tests/cpu/test_draft_dsa.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-606
+tests/cpu/test_dmtp.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-548
+tests/cpu/test_onboarding.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-190
+aspec/models/ops/flex_attention.py
+  s_a10e1cbfc3a986::t_3988021e78600f 21-24,89-93
+CONTRIBUTING.md
+  s_a10e1cbfc3a986::t_3988021e78600f 38-48
+  s_a10e1cbfc3a986::t_d510ecfc35afd5 49-53
+tests/cpu/test_open_source_entrypoints.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-193
+tests/cpu/test_eagle4_moe.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-157
+tests/cpu/test_release_recipes.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-283
+examples/qwen3.5-9b-dmtp/README.md
+  s_a10e1cbfc3a986::t_3988021e78600f 1-93
+tools/recipe_catalog.json
+  s_a10e1cbfc3a986::t_3988021e78600f 138-148
+tests/cpu/test_planning.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-1157
+aspec/training/dflash_trainer.py
+  s_a10e1cbfc3a986::t_3988021e78600f 95,147,149-150,204-212,250-254,269,318-338,380-381,678-681,708,722,727,730-731,738,894,908,913,921-922
+docs/user-guide/algorithms.md
+  s_a10e1cbfc3a986::t_3988021e78600f 99-110
+tests/cpu/test_dependency_audit.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-88
+tests/cpu/test_training_resume_rng.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-99
+docs/user-guide/recipes.md
+  s_a10e1cbfc3a986::t_3988021e78600f 22,45
+  s_a10e1cbfc3a986::t_714983165d8a00 46
+tests/cpu/test_node_local_files.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-111
+aspec/commands/_recipe_smoke.py
+  s_a10e1cbfc3a986::t_3988021e78600f 34-46,133-136
+aspec/controller/eval.py
+  s_a10e1cbfc3a986::t_3988021e78600f 123-126,148-149,153-156
+tests/cpu/test_renderer_registry.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-504
+tests/cpu/test_stage_recipe_inputs.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-56
+aspec/models/dmtp.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-181
+aspec/reporting.py
+  s_a10e1cbfc3a986::t_3988021e78600f 342-343
+configs/recipes/qwen3_5_9b_dmtp.yaml
+  s_a10e1cbfc3a986::t_3988021e78600f 1-106
+aspec/commands/convert_to_hf.py
+  s_a10e1cbfc3a986::t_3988021e78600f 166-168,467-470,483,493
+aspec/training/checkpoint.py
+  s_a10e1cbfc3a986::t_3988021e78600f 805-817,828-831,843-851
+docs/support.md
+  s_a10e1cbfc3a986::t_3988021e78600f 16
+aspec/models/draft/mtp.py
+  s_a10e1cbfc3a986::t_3988021e78600f 146-150
+tests/cpu/test_flex_attention_backend.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-48
+tests/cpu/test_owner_fence.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-139
+tests/cpu/test_dspark_teacher_contract.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-81
+tests/cpu/test_release_audit.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-161
+aspec/models/draft/dflash.py
+  s_a10e1cbfc3a986::t_3988021e78600f 85,168-172,1149-1157,1166-1194
+  s_a10e1cbfc3a986::t_7dd76f55d1f10c 1195
+tests/cpu/test_cudnn_gqa_mode.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-125
+tests/cpu/test_wheel_assets.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-98
+tests/cpu/test_environment_scripts.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-117
+tests/cpu/test_shipped_config_defaults.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-62
+aspec/config/mtp_conditioning.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-103
+aspec/controller/loop.py
+  s_a10e1cbfc3a986::t_3988021e78600f 2003-2006
+aspec/planning.py
+  s_a10e1cbfc3a986::t_3988021e78600f 561-598,600,1349-1360,1446-1449,1706
+tests/cpu/test_draft_model_config.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-214
+tests/cpu/test_sglang_patch_contract.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-128
+tests/cpu/test_target_lm_head.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-244
+docs/user-guide/configuration.md
+  s_a10e1cbfc3a986::t_3988021e78600f 107-114
+aspec/config/dspark_qwen3_5_9b_dmtp_config.json
+  s_a10e1cbfc3a986::t_3988021e78600f 1-110
+docs/contributing/validation.md
+  s_a10e1cbfc3a986::t_3988021e78600f 18,83
+tests/cpu/test_dependency_extras.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-61
+tests/cpu/test_eagle4.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-397
+tests/cpu/test_training_config_validation.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-744
+docs/framework/REFERENCES.md
+  s_a10e1cbfc3a986::t_3988021e78600f 21
+tests/cpu/test_fa4_import_compat.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-107
+aspec/models/dspark.py
+  s_a10e1cbfc3a986::t_3988021e78600f 74-75,151,159,164,166-167,171,189,217-220,237,240-241,267-269,317,525-535,629-631
+tests/cpu/test_eagle4_validation.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-40
+tests/cpu/test_capacity_handling.py
+  s_a10e1cbfc3a986::t_3988021e78600f 1-841
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1fce1e494d0256d6c6b6a4062f64f3f99c900cfe",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
