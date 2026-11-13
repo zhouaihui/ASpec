@@ -1,0 +1,39 @@
+aspec/config/train_config.py
+  s_a10e1cbfc3a986::t_43f7e9b097f676 393-396
+aspec/inference/engine/sgl_engine.py
+  s_a10e1cbfc3a986::t_27c5b831bd05ab 53,182,185,230-231,233-234,294,299,305,445-446
+aspec/inference/service.py
+  s_a10e1cbfc3a986::t_43f7e9b097f676 33,96,280,282-288,291-292,294-295,297-305
+  s_a10e1cbfc3a986::t_5186758c6898fb 289-290,293,296
+aspec/inference/factory.py
+  s_a10e1cbfc3a986::t_43f7e9b097f676 213-215,217,219-222,251,279,314-315,319,321
+  s_a10e1cbfc3a986::t_b0f1060aeccf3a 53
+aspec/inference/service_protocol.py
+  s_a10e1cbfc3a986::t_43f7e9b097f676 42-46
+docs/user-guide/data.md
+  s_a10e1cbfc3a986::t_43f7e9b097f676 26-27,29,31,33-36,41-43,45-46
+tests/cpu/test_target_environment.py
+  s_a10e1cbfc3a986::t_6a3d90a9da66be 230-238
+tests/cpu/test_target_service.py
+  s_a10e1cbfc3a986::t_c9a506ca53bcfa 732-788
+tests/cpu/test_training_config_validation.py
+  s_a10e1cbfc3a986::t_28bb65c3985852 78-84
+tests/test_sgl_engine_factory.py
+  s_a10e1cbfc3a986::t_8c74424ccedb89 26,126,151,168,172,198,201,264-267,280,282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "66d48c1cf6bd94f893c21ee4a6873c99d4f704ab",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
