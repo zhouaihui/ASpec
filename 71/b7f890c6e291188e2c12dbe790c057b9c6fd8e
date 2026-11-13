@@ -1,0 +1,26 @@
+aspec/inference/service_protocol.py
+  s_a10e1cbfc3a986::t_085231e8c6c298 52-53
+docs/user-guide/installation.md
+  s_a10e1cbfc3a986::t_085231e8c6c298 42
+  s_a10e1cbfc3a986::t_fa00be8f35f28d 43-44
+aspec/inference/managed.py
+  s_a10e1cbfc3a986::t_085231e8c6c298 32-33
+tests/cpu/test_target_service.py
+  s_a10e1cbfc3a986::t_08e9f3c030f7a2 83-94,594-607,615
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "71b7f890c6e291188e2c12dbe790c057b9c6fd8e",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
