@@ -1,0 +1,169 @@
+tools/check_wheel_install.py
+  s_a10e1cbfc3a986::t_d35ded30da8eff 70
+docs/user-guide/installation.md
+  s_a10e1cbfc3a986::t_367464a6d9e91d 29,38,43-44,59-60,68,70,86,115-116
+docs/user-guide/quickstart.md
+  s_a10e1cbfc3a986::t_8c27f37392b8c8 10-11,15-27,52,55,57
+aspec/ray/cluster_preflight.py
+  s_a10e1cbfc3a986::t_178f3d8b87b875 318,322-325
+docs/releasing.md
+  s_a10e1cbfc3a986::t_fc411ac9de42bf 41-43
+aspec/utils/misc.py
+  s_a10e1cbfc3a986::t_e09c9c02548e90 81-93
+docs/contributing/validation.md
+  s_a10e1cbfc3a986::t_539fcd1e6a015b 37-39,43
+  s_a10e1cbfc3a986::t_4878e2ff544f83 124,126,134-136
+aspec/inference/service.py
+  s_a10e1cbfc3a986::t_fc411ac9de42bf 282
+  s_a10e1cbfc3a986::t_1ea6b99f593087 173-177,180,226,229-235,237-238,240-241,244-246,248-255,260-261
+  s_a10e1cbfc3a986::t_c71f9940f1e8bd 410-412
+  s_a10e1cbfc3a986::t_3bd487f90e5783 242,247
+  s_a10e1cbfc3a986::t_0eb94126b50de9 34,76
+  s_a10e1cbfc3a986::t_e09c9c02548e90 29,36,65-66,75,79,87-94,101-102,110-121,131-132,143,160,228
+  s_a10e1cbfc3a986::t_72aa042a9ce967 165,222-223
+  s_a10e1cbfc3a986::t_ef66f8af454d35 178-179,239
+  s_a10e1cbfc3a986::t_101db0e649b5ce 320-348
+  s_a10e1cbfc3a986::t_900734b3a76615 134,144-145,191,212,236,243,275
+  s_a10e1cbfc3a986::t_4f877da1aae443 210
+  s_a10e1cbfc3a986::t_bdca9dea8c9fd9 437-438
+  s_a10e1cbfc3a986::t_ef9ca5d5ae7fb3 224-225,227
+README.md
+  s_a10e1cbfc3a986::t_367464a6d9e91d 69,75,86,88
+aspec/multi_draft.py
+  s_a10e1cbfc3a986::t_fc411ac9de42bf 805-808
+  s_a10e1cbfc3a986::t_1347e664fbf837 817
+  s_a10e1cbfc3a986::t_ae7828e6316cfd 251-252
+examples/qwen3-8b-dsa/run.sh
+  s_a10e1cbfc3a986::t_0eb94126b50de9 15
+aspec/inference/target_runtime.py
+  s_a10e1cbfc3a986::t_57f2d882526769 11-15,24
+aspec/commands/recipes.py
+  s_a10e1cbfc3a986::t_c71d1d5aea0de0 278-280,284,288,293-294
+  s_a10e1cbfc3a986::t_a31164bcca54bc 281-282
+  s_a10e1cbfc3a986::t_bdca9dea8c9fd9 30,274,500-501
+  s_a10e1cbfc3a986::t_2c1ffdac62f20f 283,285
+  s_a10e1cbfc3a986::t_fc411ac9de42bf 334-336,341,463
+aspec/ray/placement_group.py
+  s_a10e1cbfc3a986::t_ae7828e6316cfd 562-585
+docs/framework/ARCHITECTURE.md
+  s_a10e1cbfc3a986::t_367464a6d9e91d 27-29
+  s_a10e1cbfc3a986::t_dd490abd8a9824 32-33
+examples/qwen3-8b-dsa/README.md
+  s_a10e1cbfc3a986::t_4fbb93a056ecbf 14-16,21
+aspec/planning.py
+  s_a10e1cbfc3a986::t_178f3d8b87b875 1629,1635
+tests/test_sgl_engine_factory.py
+  s_a10e1cbfc3a986::t_887bfc139d53f3 192,194,197-198
+docs/user-guide/multinode.md
+  s_a10e1cbfc3a986::t_4fbb93a056ecbf 51,53,56-60
+  s_a10e1cbfc3a986::t_3b85e1827c2e41 61
+aspec/inference/service_client.py
+  s_a10e1cbfc3a986::t_ae03452a6fd0f7 26-33,93-95,98,100-104
+  s_a10e1cbfc3a986::t_e09c9c02548e90 11,15-16,22-25,35-36,56-57
+  s_a10e1cbfc3a986::t_ef66f8af454d35 92
+  s_a10e1cbfc3a986::t_d4144bb838ee84 96-97,99
+  s_a10e1cbfc3a986::t_1ea6b99f593087 91
+tests/cpu/test_onboarding.py
+  s_a10e1cbfc3a986::t_ced54ba9b1826d 126-127,132-135,140
+aspec/commands/_recipe_capacity.py
+  s_a10e1cbfc3a986::t_fc411ac9de42bf 25-48
+docs/user-guide/installation-advanced.md
+  s_a10e1cbfc3a986::t_367464a6d9e91d 18
+  s_a10e1cbfc3a986::t_c71f9940f1e8bd 16-17
+tests/cpu/test_multi_draft_runtime.py
+  s_a10e1cbfc3a986::t_95eb3bc78a3a58 76,151,181-194,202,364
+aspec/controller/loop.py
+  s_a10e1cbfc3a986::t_101db0e649b5ce 439-440,602,621
+  s_a10e1cbfc3a986::t_ae03452a6fd0f7 620,625,628-632
+  s_a10e1cbfc3a986::t_ef66f8af454d35 623-624
+examples/qwen3.5-9b-dmtp/README.md
+  s_a10e1cbfc3a986::t_c26390ac324653 14-17
+tests/cpu/test_release_recipes.py
+  s_a10e1cbfc3a986::t_ced54ba9b1826d 204,216-281,337
+  s_a10e1cbfc3a986::t_b2b67c866b7879 282-288,290-308,312-324
+  s_a10e1cbfc3a986::t_e7501e48c68301 289,309-311
+README_zh-CN.md
+  s_a10e1cbfc3a986::t_367464a6d9e91d 63,68,78,80
+docs/user-guide/recipes.md
+  s_a10e1cbfc3a986::t_4fbb93a056ecbf 54-56,63,96
+examples/qwen3-8b-shared-target/README.md
+  s_a10e1cbfc3a986::t_4fbb93a056ecbf 17-19,30
+aspec/train_entry.py
+  s_a10e1cbfc3a986::t_0eb94126b50de9 539,541-543
+  s_a10e1cbfc3a986::t_bdca9dea8c9fd9 44,211-212
+  s_a10e1cbfc3a986::t_47bdde1b8e3352 213
+aspec/inference/engine/target_actor.py
+  s_a10e1cbfc3a986::t_e09c9c02548e90 20,53
+aspec/inference/service_protocol.py
+  s_a10e1cbfc3a986::t_95eb3bc78a3a58 17,30
+  s_a10e1cbfc3a986::t_a31164bcca54bc 14
+  s_a10e1cbfc3a986::t_e9767e33937955 27
+  s_a10e1cbfc3a986::t_92aae631de5da2 35
+  s_a10e1cbfc3a986::t_3586c3f33096af 26,33-34
+  s_a10e1cbfc3a986::t_57f2d882526769 22-25,28-29,31-32,36-40,122
+docs/framework/DECISIONS.md
+  s_a10e1cbfc3a986::t_367464a6d9e91d 29-31
+tools/recipes.py
+  s_a10e1cbfc3a986::t_b429728dc03078 151-154
+  s_a10e1cbfc3a986::t_fc411ac9de42bf 212
+  s_a10e1cbfc3a986::t_4878e2ff544f83 42-45,66-69,72,76,86,174,228
+aspec/ray/ray_actor.py
+  s_a10e1cbfc3a986::t_e09c9c02548e90 63-64
+aspec/_environment.py
+  s_a10e1cbfc3a986::t_bdca9dea8c9fd9 17,24-38
+  s_a10e1cbfc3a986::t_58878ed3bc110c 39-40
+aspec/commands/_recipe_smoke.py
+  s_a10e1cbfc3a986::t_c71f9940f1e8bd 203,207-209
+aspec/cli.py
+  s_a10e1cbfc3a986::t_bdca9dea8c9fd9 18,51
+setup.sh
+  s_a10e1cbfc3a986::t_fc411ac9de42bf 60
+aspec/inference/managed.py
+  s_a10e1cbfc3a986::t_0eb94126b50de9 26,41
+  s_a10e1cbfc3a986::t_178f3d8b87b875 20,40,42-50,60,62,80,83-86
+tests/cpu/test_target_service.py
+  s_a10e1cbfc3a986::t_72aa042a9ce967 184,320-376
+  s_a10e1cbfc3a986::t_6e834caff2a0f1 60,64
+  s_a10e1cbfc3a986::t_22bda3b337eca7 106,108-116
+  s_a10e1cbfc3a986::t_95eb3bc78a3a58 74-75,84-86,88,102-105,140-143,146,151-152,163-164,170-171,178-180,182-183,190-244,274,282,302-319,387-451,460-544,550,555,585-605
+  s_a10e1cbfc3a986::t_61292f64e074a3 5,37-59,61-63,65-73
+  s_a10e1cbfc3a986::t_fa5ec5ad2d774d 107,117-118
+tests/cpu/test_target_environment.py
+  s_a10e1cbfc3a986::t_bdca9dea8c9fd9 185,187
+  s_a10e1cbfc3a986::t_61292f64e074a3 4-5,16-18,24-25,31-41,43-44,46-50,52-74
+  s_a10e1cbfc3a986::t_6e834caff2a0f1 14-15,19-23,26-30,75-88,90-91,93-95,97-98,100-107
+  s_a10e1cbfc3a986::t_c2e82c5f5d2644 45,92
+  s_a10e1cbfc3a986::t_b2b67c866b7879 8-9,108-131,167-170,173-177
+  s_a10e1cbfc3a986::t_507595e96719ac 42,51,89,96,99
+docs/user-guide/containers.md
+  s_a10e1cbfc3a986::t_367464a6d9e91d 26-29
+tests/cpu/test_recipe_capacity.py
+  s_a10e1cbfc3a986::t_b2b67c866b7879 22-41
+examples/qwen3-8b-offline/README.md
+  s_a10e1cbfc3a986::t_0eb94126b50de9 16-19
+aspec/inference/factory.py
+  s_a10e1cbfc3a986::t_ae7828e6316cfd 256-262,276-277,279,282,285
+  s_a10e1cbfc3a986::t_ae03452a6fd0f7 264-269,281
+  s_a10e1cbfc3a986::t_d4144bb838ee84 26-29
+  s_a10e1cbfc3a986::t_f9c86e4f6d4841 263
+tests/cpu/test_loop_cleanup.py
+  s_a10e1cbfc3a986::t_75c2615fd749de 2172-2239
+tests/cpu/test_placement_group.py
+  s_a10e1cbfc3a986::t_fa59cb5256740c 74-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cf8931234cd7e05bfdabcce1975e4875248543af",
+  "prompts": {},
+  "sessions": {
+    "s_a10e1cbfc3a986": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf94-7700-73b3-89b7-1a9f52c59cc4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
