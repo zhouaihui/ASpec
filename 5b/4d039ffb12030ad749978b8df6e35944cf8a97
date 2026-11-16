@@ -1,0 +1,145 @@
+README_zh-CN.md
+  s_b7ff51f33504f1::t_4867c33ee4a62d 25
+tools/recipes.py
+  s_b7ff51f33504f1::t_cfdc615bc633fd 212-214
+  s_b7ff51f33504f1::t_4032e72c337dc9 211
+aspec/commands/recipes.py
+  s_b7ff51f33504f1::t_b3192e21c7b61a 394,428
+ROADMAP.md
+  s_b7ff51f33504f1::t_58b11a2908cc7b 20
+  s_b7ff51f33504f1::t_74c50bb945662b 19
+tests/cpu/test_release_recipes.py
+  s_b7ff51f33504f1::t_b3192e21c7b61a 40,47,76
+  s_b7ff51f33504f1::t_c6e262ea1e148f 86
+docs/framework/DECISIONS.md
+  s_b7ff51f33504f1::t_39023666b5923f 36-37
+  s_b7ff51f33504f1::t_61e4309a7f5e41 56-59
+  s_b7ff51f33504f1::t_bbf24fda4f3223 35
+docs/framework/ARCHITECTURE.md
+  s_b7ff51f33504f1::t_55c626761e4beb 81
+  s_b7ff51f33504f1::t_0cb08d0b2e9d2d 82-84
+  s_b7ff51f33504f1::t_4867c33ee4a62d 78
+  s_b7ff51f33504f1::t_bbf24fda4f3223 79-80
+docs/contributing/validation.md
+  s_b7ff51f33504f1::t_7cfbdb3d7c17c1 163
+  s_b7ff51f33504f1::t_4867c33ee4a62d 155-162,164
+  s_b7ff51f33504f1::t_783f70ff3c2179 165
+  s_b7ff51f33504f1::t_0c6bae756db268 18
+docs/aspec.zh-CN.md
+  s_b7ff51f33504f1::t_74c50bb945662b 125
+docs/user-guide/sharing.md
+  s_b7ff51f33504f1::t_85a1441060b263 128-129
+  s_b7ff51f33504f1::t_74c50bb945662b 4,24-28,52-55,62-68,112,201-202,205-207,211
+  s_b7ff51f33504f1::t_935d7964470a81 111
+  s_b7ff51f33504f1::t_79acdabc7b2e2a 106
+  s_b7ff51f33504f1::t_bbf24fda4f3223 98-102
+  s_b7ff51f33504f1::t_15dfceabf70f47 88,91,113-121,127,134-143,145-146,148-150,152-180,182-185,187-197,200,203-204
+  s_b7ff51f33504f1::t_e34b0c33624511 123-125
+  s_b7ff51f33504f1::t_8d935922ceb548 61
+  s_b7ff51f33504f1::t_d8736ea5b8d8e7 110
+  s_b7ff51f33504f1::t_9b34d3b089332c 103-105
+  s_b7ff51f33504f1::t_ef3e140465bd03 208
+  s_b7ff51f33504f1::t_97ab87e113b58f 5,19,82-84,95-96,210
+  s_b7ff51f33504f1::t_72d75664d6be04 130-133
+  s_b7ff51f33504f1::t_154c4b2e280f2f 147,181,186
+  s_b7ff51f33504f1::t_39023666b5923f 107-109
+  s_b7ff51f33504f1::t_4867c33ee4a62d 59-60
+  s_b7ff51f33504f1::t_f0193a095666a4 92-94,97
+  s_b7ff51f33504f1::t_3f0aab1d410264 85-87
+  s_b7ff51f33504f1::t_40167824997734 89-90
+  s_b7ff51f33504f1::t_4521f797f04e50 126,144,151,198-199
+  s_b7ff51f33504f1::t_6af6c654c2fd49 122
+tests/cpu/test_inference_manager_lifecycle.py
+  s_b7ff51f33504f1::t_cfdc615bc633fd 62-79,357-358,399-403,416-418,424
+configs/recipes/README.md
+  s_b7ff51f33504f1::t_15dfceabf70f47 14
+  s_b7ff51f33504f1::t_7cfbdb3d7c17c1 15
+tests/cpu/test_shared_source.py
+  s_b7ff51f33504f1::t_9b34d3b089332c 867-869,880
+  s_b7ff51f33504f1::t_d6db35b83e9c70 783
+  s_b7ff51f33504f1::t_cfdc615bc633fd 18,140-142,673-782,784-864
+  s_b7ff51f33504f1::t_fff1cc9500f8c5 143
+  s_b7ff51f33504f1::t_a83968513439bf 865-866,870-879,881-909
+docs/user-guide/multinode.md
+  s_b7ff51f33504f1::t_cb077e9dcf7447 6-7
+aspec/train_entry.py
+  s_b7ff51f33504f1::t_3465773c8bc200 541
+  s_b7ff51f33504f1::t_b3192e21c7b61a 529,536-539
+aspec/controller/inference_manager.py
+  s_b7ff51f33504f1::t_39023666b5923f 777-781
+  s_b7ff51f33504f1::t_38fd0ef4deb849 876
+  s_b7ff51f33504f1::t_fff1cc9500f8c5 59,905-906
+  s_b7ff51f33504f1::t_d8c0b0bc329533 900-904,1003-1007,1053,1077-1080
+  s_b7ff51f33504f1::t_5dad24c925dc1b 877-884,915-925
+aspec/controller/shared_source.py
+  s_b7ff51f33504f1::t_229d1dda25c797 109,330-331,351-360,364,376,378-384,386-388,391-399,675
+  s_b7ff51f33504f1::t_a8ff9c1723dc27 559
+  s_b7ff51f33504f1::t_5dad24c925dc1b 91-93,95,97-102,110,247,253,306-307,416-417,420-421,536-537,546-547,549-558,696
+  s_b7ff51f33504f1::t_fc5b5500599dd3 29,103-108,286-291,333-344,368-371
+  s_b7ff51f33504f1::t_a5d2d448d7d230 131,248-252,308,318-329,361-363,365-367,372-375,377,385,389-390,418-419,428,495,534-535,538-545,548,671,678
+  s_b7ff51f33504f1::t_448e4fbeda36bb 596-597,614-615
+docs/support.md
+  s_b7ff51f33504f1::t_bbf24fda4f3223 33
+  s_b7ff51f33504f1::t_7a5447bb7a71e4 52-54
+  s_b7ff51f33504f1::t_6ff03bf20b1daa 4-6,38,48-49,51,55-58
+  s_b7ff51f33504f1::t_39023666b5923f 34-35
+  s_b7ff51f33504f1::t_53c8190ccca58b 32
+tests/cpu/test_multi_draft_plan.py
+  s_b7ff51f33504f1::t_a83968513439bf 358-368,370-382,386,388-390
+  s_b7ff51f33504f1::t_cf913eda4b01cf 369
+  s_b7ff51f33504f1::t_cfdc615bc633fd 29,231,291-357
+  s_b7ff51f33504f1::t_9b34d3b089332c 383-385,387,391-397
+README.md
+  s_b7ff51f33504f1::t_154c4b2e280f2f 28-29
+docs/user-guide/recipes.md
+  s_b7ff51f33504f1::t_7cfbdb3d7c17c1 89
+  s_b7ff51f33504f1::t_b3192e21c7b61a 30
+  s_b7ff51f33504f1::t_15dfceabf70f47 88,90-91
+tests/test_startup_cleanup.py
+  s_b7ff51f33504f1::t_7030196bc96997 21,24-27,29,31-38
+docs/framework/ROADMAP.md
+  s_b7ff51f33504f1::t_eb6c7c71829b31 10
+aspec/multi_draft.py
+  s_b7ff51f33504f1::t_4867c33ee4a62d 207,491
+  s_b7ff51f33504f1::t_216b284182b118 43
+  s_b7ff51f33504f1::t_8a963945ecee79 150
+  s_b7ff51f33504f1::t_9b34d3b089332c 177
+  s_b7ff51f33504f1::t_97ab87e113b58f 49
+  s_b7ff51f33504f1::t_c76c8ccd857b4d 488-489
+  s_b7ff51f33504f1::t_bc8c368406c846 42,156-158,194-195,198-205,217-235,367-371,483-487,496-497,499-501,505,520-521,528,535-537,612,618-622,866-867
+  s_b7ff51f33504f1::t_d8c0b0bc329533 159-160
+  s_b7ff51f33504f1::t_e34b0c33624511 178-186,884-889,891-898
+  s_b7ff51f33504f1::t_8bf6d29959c600 26,396-397,399-401,403-407
+  s_b7ff51f33504f1::t_b3192e21c7b61a 387-395,398,402,408-415
+  s_b7ff51f33504f1::t_38fd0ef4deb849 868-869
+tests/cpu/test_multi_draft_runtime.py
+  s_b7ff51f33504f1::t_f30d50ab587295 317,319
+  s_b7ff51f33504f1::t_a83968513439bf 289-316,318,320-328
+  s_b7ff51f33504f1::t_cfdc615bc633fd 46-52,54-58,279,432-511
+  s_b7ff51f33504f1::t_cc27f2d0deb60b 329-330
+configs/recipes/qwen3_8b_4k_multinode_multi_draft_nvlink.yaml
+  s_b7ff51f33504f1::t_fe45e11ea2bf4e 1-25,28-41,43-77,79-117,119-155
+  s_b7ff51f33504f1::t_cae9993b43c921 42
+  s_b7ff51f33504f1::t_bbf24fda4f3223 78
+  s_b7ff51f33504f1::t_0cb08d0b2e9d2d 118
+  s_b7ff51f33504f1::t_4867c33ee4a62d 26-27
+tools/recipe_catalog.json
+  s_b7ff51f33504f1::t_b3192e21c7b61a 114-115,151-161
+  s_b7ff51f33504f1::t_794bc4dfe116ba 150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5b4d039ffb12030ad749978b8df6e35944cf8a97",
+  "prompts": {},
+  "sessions": {
+    "s_b7ff51f33504f1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ba0c-aafb-7911-a26d-75d69658f901",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}
