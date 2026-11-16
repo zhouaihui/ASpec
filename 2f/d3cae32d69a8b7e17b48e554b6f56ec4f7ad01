@@ -1,0 +1,27 @@
+aspec/multi_draft.py
+  s_b7ff51f33504f1::t_1e9409d43bc488 177-186,884-889,891-898
+docs/user-guide/sharing.md
+  s_b7ff51f33504f1::t_068144f3f12c44 103-106,123-125
+tests/cpu/test_multi_draft_plan.py
+  s_b7ff51f33504f1::t_8ca1f862755c6e 358-397
+tests/cpu/test_multi_draft_runtime.py
+  s_b7ff51f33504f1::t_00d44449f4a65e 289-330
+tests/cpu/test_shared_source.py
+  s_b7ff51f33504f1::t_41235470e52263 865-909
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2fd3cae32d69a8b7e17b48e554b6f56ec4f7ad01",
+  "prompts": {},
+  "sessions": {
+    "s_b7ff51f33504f1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ba0c-aafb-7911-a26d-75d69658f901",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
