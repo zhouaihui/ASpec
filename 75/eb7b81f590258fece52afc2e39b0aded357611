@@ -1,0 +1,27 @@
+docs/user-guide/recipes.md
+  s_b88e191f48e9d6::t_cb970bda5fb4b2 136-138
+  s_b88e191f48e9d6::t_d8779e3f482946 139-140
+tests/test_direct_cp_gpu.py
+  s_b88e191f48e9d6::t_3e382f3abf4933 45-50,53-56
+  s_b88e191f48e9d6::t_c2930320d68f04 34-44,51-52,57-72,80-97
+  s_b88e191f48e9d6::t_a11c614738ab11 17
+  s_b88e191f48e9d6::t_9c393503a0b0e3 73-79
+configs/recipes/glm5_3_flash_dspark.yaml
+  s_b88e191f48e9d6::t_cb970bda5fb4b2 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "75eb7b81f590258fece52afc2e39b0aded357611",
+  "prompts": {},
+  "sessions": {
+    "s_b88e191f48e9d6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d2e0-748a-79c1-ab85-2a744af8e665",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
