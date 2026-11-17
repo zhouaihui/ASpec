@@ -1,0 +1,78 @@
+tests/cpu/test_target_lm_head.py
+  s_7c51e42462d280::t_d59c36cf90e840 193-194
+aspec/training/dspark_trainer.py
+  s_7c51e42462d280::t_d59c36cf90e840 30,62-63,81
+tools/recipe_catalog.json
+  s_7c51e42462d280::t_d59c36cf90e840 149-159
+aspec/models/dflash.py
+  s_7c51e42462d280::t_d59c36cf90e840 421-422
+tests/test_dspark_speculators_cutedsl.py
+  s_7c51e42462d280::t_d59c36cf90e840 1-218
+aspec/config/utils.py
+  s_7c51e42462d280::t_d59c36cf90e840 28,33-43,128
+aspec/models/dspark.py
+  s_7c51e42462d280::t_d59c36cf90e840 21,23-25,27-30,32-34,40,43,46-51,75,95,117-119,166-169,183-191,276-279,281,284-288,332-337,348,353,502-505,509-516,520,528,556,594-595,606-628,631-645,647-650,669-681,686-687,692-693,696-698,702-704,708-711,713-714,716,727
+docs/user-guide/recipes.md
+  s_7c51e42462d280::t_d59c36cf90e840 27,134-188
+aspec/planning.py
+  s_7c51e42462d280::t_d59c36cf90e840 37,344-349,366-367,687-692,703-704,712,1338,1891-1893
+aspec/config/draft_attention.py
+  s_7c51e42462d280::t_d59c36cf90e840 127-129,408-409
+aspec/training/checkpoint.py
+  s_7c51e42462d280::t_d59c36cf90e840 82,150-151,792-826,828-829,845-846
+aspec/data/renderers/__init__.py
+  s_7c51e42462d280::t_d59c36cf90e840 22,26,32
+tests/cpu/test_glm5_flash_draft.py
+  s_7c51e42462d280::t_d59c36cf90e840 1-125
+aspec/kernels/cutedsl/speculators_loss.py
+  s_7c51e42462d280::t_d59c36cf90e840 1-482
+aspec/config/train_config.py
+  s_7c51e42462d280::t_d59c36cf90e840 249
+aspec/data/renderers/glm5.py
+  s_7c51e42462d280::t_d59c36cf90e840 1-67
+aspec/models/ops/loss.py
+  s_7c51e42462d280::t_d59c36cf90e840 21-22,51-75,121-131
+docs/user-guide/algorithms.md
+  s_7c51e42462d280::t_bd036bc1e074a7 60-62
+  s_7c51e42462d280::t_d59c36cf90e840 23-25
+docs/framework/REFERENCES.md
+  s_7c51e42462d280::t_d59c36cf90e840 25-27
+aspec/config/draft_algorithm.py
+  s_7c51e42462d280::t_d59c36cf90e840 18-28
+aspec/training/dflash_trainer.py
+  s_7c51e42462d280::t_d59c36cf90e840 153-157,159-160,214,375-376
+docs/support.md
+  s_7c51e42462d280::t_d59c36cf90e840 13
+aspec/config/dspark_glm5_3_flash_draft_config.json
+  s_7c51e42462d280::t_d59c36cf90e840 1-36
+configs/recipes/glm5_3_flash_dspark.yaml
+  s_7c51e42462d280::t_d59c36cf90e840 1-103
+tests/cpu/test_dspark_loss_recipes.py
+  s_7c51e42462d280::t_d59c36cf90e840 1-188
+tests/cpu/test_release_recipes.py
+  s_7c51e42462d280::t_d59c36cf90e840 33-34,88
+aspec/models/target/target_utils.py
+  s_7c51e42462d280::t_d59c36cf90e840 33,89,328
+aspec/inference/engine/sgl_engine.py
+  s_7c51e42462d280::t_d59c36cf90e840 987,989
+docs/user-guide/training.md
+  s_7c51e42462d280::t_d59c36cf90e840 183-218
+licenses/QuACK-LICENSE
+  s_7c51e42462d280::t_d59c36cf90e840 1-201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "397efb728fb1f6b56b9c06414441dbf6d7029441",
+  "prompts": {},
+  "sessions": {
+    "s_7c51e42462d280": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8ba-2a3f-7581-984e-b7e37ef7e555",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
