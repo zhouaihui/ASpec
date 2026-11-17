@@ -1,0 +1,29 @@
+tests/cpu/test_glm5_flash_draft.py
+  s_b88e191f48e9d6::t_6221da1cea7057 157-158,176,200
+  s_b88e191f48e9d6::t_c2fe6513447c44 4,85-115,148-154,165-175,177-199,201-208
+docs/user-guide/recipes.md
+  s_b88e191f48e9d6::t_7256c4501d9dc4 142-143
+aspec/training/checkpoint.py
+  s_b88e191f48e9d6::t_7256c4501d9dc4 28,793-802,804-806,808-814,837,839-845
+  s_b88e191f48e9d6::t_6221da1cea7057 803,807
+aspec/data/renderers/glm5.py
+  s_b88e191f48e9d6::t_7256c4501d9dc4 8,37-41
+tests/test_dspark_speculators_cutedsl.py
+  s_b88e191f48e9d6::t_c2fe6513447c44 20-21,30-34,45-52,61-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "adb053acf98f711979a680a5a7ee22753f224e87",
+  "prompts": {},
+  "sessions": {
+    "s_b88e191f48e9d6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d2e0-748a-79c1-ab85-2a744af8e665",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
