@@ -1,0 +1,19 @@
+ROADMAP.md
+  s_a4e6f108e82d8a::t_a12daccb4ba716 19-21,60-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "24517191b25fb62f09027a27b78a5bb16e870423",
+  "prompts": {},
+  "sessions": {
+    "s_a4e6f108e82d8a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c862-e399-7b83-b06f-ce879fc709c7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
