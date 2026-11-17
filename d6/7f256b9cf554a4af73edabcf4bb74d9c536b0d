@@ -1,0 +1,137 @@
+tests/test_target_mtp_features_gpu.py
+  s_9e2b2ec9f51378::t_1c2fe45ac9e934 1-53
+aspec/feature_contract.py
+  s_9e2b2ec9f51378::t_762fd357cb7da5 133
+  s_9e2b2ec9f51378::t_c5b0d79b1043f4 70,128-132,134-144,177,207-208,419-421,427
+docs/framework/DECISIONS.md
+  s_9e2b2ec9f51378::t_069b8ab96ff7d3 61-63
+aspec/models/draft/base.py
+  s_9e2b2ec9f51378::t_ffde942c8aaaa4 30
+  s_b88e191f48e9d6::t_54a991cf4b42fc 31
+aspec/models/mtp_features.py
+  s_9e2b2ec9f51378::t_6e6e9cd0fe6b00 11-24
+  s_9e2b2ec9f51378::t_a4c96da3923d7c 1-10,25-36
+aspec/inference/engine/sgl_engine.py
+  s_9e2b2ec9f51378::t_06801325a68f1d 1034,1046
+  s_9e2b2ec9f51378::t_92cceec96d1da2 1033,1045
+aspec/offline/dataset.py
+  s_9e2b2ec9f51378::t_46a9fabdd5a173 40
+aspec/config/dspark_qwen3_5_9b_dmtp_config.json
+  s_9e2b2ec9f51378::t_dfdc34af02ee9e 33
+aspec/offline/saving_actor.py
+  s_9e2b2ec9f51378::t_46a9fabdd5a173 117
+examples/qwen3.5-9b-dmtp/README.md
+  s_9e2b2ec9f51378::t_ab7e59bae905b6 3,29-47,92-94,105-107
+  s_b88e191f48e9d6::t_3ff5bbdbfed8f4 108
+docs/user-guide/algorithms.md
+  s_9e2b2ec9f51378::t_ab7e59bae905b6 103-107
+aspec/models/dmtp.py
+  s_9e2b2ec9f51378::t_6e6e9cd0fe6b00 43-71
+  s_9e2b2ec9f51378::t_c5b0d79b1043f4 144-145
+aspec/config/mooncake_config.py
+  s_9e2b2ec9f51378::t_54592070b809be 169,283,299,381-382,456,617
+aspec/inference/mtp_features.py
+  s_9e2b2ec9f51378::t_a1cd681f6ac335 62-65
+  s_9e2b2ec9f51378::t_5d3553f5c1060f 1-45,50-58,61,66-77,81-84,87-116
+  s_9e2b2ec9f51378::t_07e21fda50a236 46-49
+  s_9e2b2ec9f51378::t_762fd357cb7da5 117-118
+  s_9e2b2ec9f51378::t_8be01cdf944d55 59-60,78-80,85-86
+aspec/models/draft/dflash.py
+  s_9e2b2ec9f51378::t_c5b0d79b1043f4 1154-1155,1179,1201-1202
+  s_9e2b2ec9f51378::t_6e6e9cd0fe6b00 1149,1156-1159,1174-1175,1203-1204
+aspec/training/dflash_trainer.py
+  s_9e2b2ec9f51378::t_57a39f2d2cec36 462
+  s_9e2b2ec9f51378::t_46a9fabdd5a173 328-329,337-338,459-461,463-469,490
+aspec/transfer/mooncake/eagle_store.py
+  s_9e2b2ec9f51378::t_0e0763a147c94c 71,85,122-123,444,473,475-477,489-492,502-503,532-535,661,690-694,734
+  s_9e2b2ec9f51378::t_9062c77cfadb82 312,356-357,359-360
+  s_9e2b2ec9f51378::t_781c8f1c37e4b3 474
+  s_9e2b2ec9f51378::t_46a9fabdd5a173 932,959-960,998,1013
+aspec/transfer/mooncake/helpers.py
+  s_9e2b2ec9f51378::t_54592070b809be 43,66-67
+aspec/config/mtp_conditioning.py
+  s_9e2b2ec9f51378::t_a4c96da3923d7c 14-19,50-56,69-71
+  s_9e2b2ec9f51378::t_8be01cdf944d55 95,105,116-119,121-130
+  s_9e2b2ec9f51378::t_aa286146897149 120
+aspec/training/trainer.py
+  s_9e2b2ec9f51378::t_46a9fabdd5a173 787
+aspec/inference/target_prefill.py
+  s_9e2b2ec9f51378::t_06801325a68f1d 57,97,171,244-252
+  s_9e2b2ec9f51378::t_470790af55263a 98,324
+  s_9e2b2ec9f51378::t_30ed7c3e94ffb4 137-138,253
+aspec/inference/engine/offline_replay_engine.py
+  s_9e2b2ec9f51378::t_46a9fabdd5a173 118,153-154,161-162
+tests/cpu/test_target_mtp_features.py
+  s_9e2b2ec9f51378::t_f09bd6a5479e3e 1-5,11-23,26-29,31-128,139-146,239-276
+  s_9e2b2ec9f51378::t_a1cd681f6ac335 129-138,228-235
+  s_9e2b2ec9f51378::t_bd9cdfbb1f001b 6,8-10,147-195,197,199-202,277-290,314-315,318,320-336
+  s_9e2b2ec9f51378::t_aa286146897149 203,216-225
+  s_9e2b2ec9f51378::t_950dc7e2849ca2 196,198
+  s_9e2b2ec9f51378::t_762fd357cb7da5 204-215,226-227,236-238
+  s_9e2b2ec9f51378::t_d6449f261489e0 7,291-313
+  s_9e2b2ec9f51378::t_30ed7c3e94ffb4 24-25,30,363-433
+  s_9e2b2ec9f51378::t_02986c113f026a 316-317,319,337-362
+configs/recipes/qwen3_5_9b_dmtp.yaml
+  s_9e2b2ec9f51378::t_c32d2fd94f8d64 3
+aspec/models/target/eagle3_target_model.py
+  s_9e2b2ec9f51378::t_0e0763a147c94c 45,58-59
+aspec/models/checkpoint.py
+  s_9e2b2ec9f51378::t_ffde942c8aaaa4 1-74
+aspec/planning.py
+  s_9e2b2ec9f51378::t_aa286146897149 1463-1464,1466-1474,1735
+  s_9e2b2ec9f51378::t_02986c113f026a 1465
+  s_9e2b2ec9f51378::t_54592070b809be 599-601,605,1508
+  s_9e2b2ec9f51378::t_a1cd681f6ac335 602-604
+  s_9e2b2ec9f51378::t_c5b0d79b1043f4 588-589,1390-1393
+  s_9e2b2ec9f51378::t_8be01cdf944d55 1461-1462,1921
+aspec/models/draft/mtp.py
+  s_9e2b2ec9f51378::t_a4c96da3923d7c 150-152
+aspec/models/dflash.py
+  s_9e2b2ec9f51378::t_c5b0d79b1043f4 257
+aspec/commands/_recipe_smoke.py
+  s_9e2b2ec9f51378::t_ab7e59bae905b6 22,39-40
+aspec/data/utils.py
+  s_9e2b2ec9f51378::t_54592070b809be 236-237
+  s_9e2b2ec9f51378::t_0e0763a147c94c 179-185
+aspec/training/checkpoint.py
+  s_9e2b2ec9f51378::t_6e6e9cd0fe6b00 816,848
+aspec/config/dflash_qwen3_5_9b_dmtp_config.json
+  s_9e2b2ec9f51378::t_dfdc34af02ee9e 29
+docs/support.md
+  s_9e2b2ec9f51378::t_ab7e59bae905b6 16
+aspec/inference/sglang_v0521.py
+  s_9e2b2ec9f51378::t_762fd357cb7da5 488-489
+  s_9e2b2ec9f51378::t_8be01cdf944d55 112,156,600
+  s_9e2b2ec9f51378::t_06801325a68f1d 109-111,147-155,157,297,348,375-376,386-387,598
+  s_9e2b2ec9f51378::t_92cceec96d1da2 599
+docs/framework/REFERENCES.md
+  s_9e2b2ec9f51378::t_ab7e59bae905b6 22
+  s_9e2b2ec9f51378::t_4f59a0210ca59c 25
+aspec/training/data_fetcher.py
+  s_9e2b2ec9f51378::t_46a9fabdd5a173 453,679
+  s_9e2b2ec9f51378::t_1651fa2870c941 572,705,766
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d67f256b9cf554a4af73edabcf4bb74d9c536b0d",
+  "prompts": {},
+  "sessions": {
+    "s_9e2b2ec9f51378": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c359-5c1d-7f23-952f-a333b0bb221b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    },
+    "s_b88e191f48e9d6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d2e0-748a-79c1-ab85-2a744af8e665",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
