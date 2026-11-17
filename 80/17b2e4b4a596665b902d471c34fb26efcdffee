@@ -1,0 +1,38 @@
+tests/cpu/test_glm5_flash_draft.py
+  s_7c51e42462d280::t_9f898ae3579650 85-102
+aspec/kernels/cutedsl/dspark_qk_norm_rope_bwd.py
+  s_7c51e42462d280::t_efe6c2ac5fcbaf 5,135,293-294,297-301,315-317,331-346,459,547,609,663,797,842,902,934,969,1038,1076
+docs/user-guide/recipes.md
+  s_7c51e42462d280::t_0b22e6baa5744c 141
+  s_7c51e42462d280::t_4e0e340f8dad8d 137-140,142
+aspec/models/draft/dflash.py
+  s_7c51e42462d280::t_9f898ae3579650 425-434
+tests/test_glm_cudnn_training_gpu.py
+  s_7c51e42462d280::t_48083aa0b0f72b 1-27,29-44,51-60,62-76,97-104,107-112,116-131,134-137,143-153,158,161
+  s_7c51e42462d280::t_1f5235cb7aeaa1 179-183,186-190,196-222
+  s_7c51e42462d280::t_3632fe17227f90 28,61,77-96,105-106,113-115,132-133,138-142,156-157,159-160,162-166
+  s_7c51e42462d280::t_4e0e340f8dad8d 45-50,154-155,167-178
+  s_7c51e42462d280::t_0b22e6baa5744c 184-185,191-195
+aspec/models/ops/dspark_qk_norm_rope.py
+  s_7c51e42462d280::t_efe6c2ac5fcbaf 95,122
+aspec/kernels/cutedsl/dspark_qk_norm_rope.py
+  s_7c51e42462d280::t_ed0fb9fef8398f 5,11-13,130,362-368,381-386,475,509,532,559,579,629,641
+aspec/models/ops/cudnn_flex_attention.py
+  s_7c51e42462d280::t_9f898ae3579650 30,376-377,379-380
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8017b2e4b4a596665b902d471c34fb26efcdffee",
+  "prompts": {},
+  "sessions": {
+    "s_7c51e42462d280": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8ba-2a3f-7581-984e-b7e37ef7e555",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
