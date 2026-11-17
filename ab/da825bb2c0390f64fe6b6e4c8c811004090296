@@ -1,0 +1,35 @@
+aspec/models/ops/cudnn_flex_attention.py
+  s_7c51e42462d280::t_6c23bfe85dd812 30,376-377,379-380
+tests/cpu/test_cudnn_attention_geometry.py
+  s_7c51e42462d280::t_21ef4d53b0d8c9 1-28
+aspec/kernels/cutedsl/dspark_qk_norm_rope_bwd.py
+  s_7c51e42462d280::t_6c23bfe85dd812 5,135,293-294,297-301,315-317,331-346,459,547,609,663,797,842,902,934,969,1038,1076
+tests/test_cudnn_mha64.py
+  s_7c51e42462d280::t_9a1ab3af08a54b 1-25,28-32,38-45,47-49,51-69,72-73,76-151,153,155-158,171-207,209-239
+  s_7c51e42462d280::t_c0efc67cbcbe2d 33-37,74
+  s_7c51e42462d280::t_21ef4d53b0d8c9 26-27,46,50,70-71,75,152,154,159-170,208
+aspec/models/ops/dspark_qk_norm_rope.py
+  s_7c51e42462d280::t_6c23bfe85dd812 95,122
+aspec/kernels/cutedsl/dspark_qk_norm_rope.py
+  s_7c51e42462d280::t_6c23bfe85dd812 5,11-13,130,362-368,381-386,475,509,532,559,579,629,641
+aspec/models/draft/dflash.py
+  s_7c51e42462d280::t_6c23bfe85dd812 425-434
+docs/user-guide/structures.md
+  s_7c51e42462d280::t_21ef4d53b0d8c9 29-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "abda825bb2c0390f64fe6b6e4c8c811004090296",
+  "prompts": {},
+  "sessions": {
+    "s_7c51e42462d280": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8ba-2a3f-7581-984e-b7e37ef7e555",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
