@@ -1,0 +1,21 @@
+aspec/models/ops/flex_attention.py
+  s_b88e191f48e9d6::t_6b46dca78576ff 25,31,96-108
+tests/cpu/test_flex_attention_backend.py
+  s_b88e191f48e9d6::t_6d4bedb6aecc5b 7,50-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "604a1d801da8ad64f5305de8f0fd1f5167e207bf",
+  "prompts": {},
+  "sessions": {
+    "s_b88e191f48e9d6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d2e0-748a-79c1-ab85-2a744af8e665",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
