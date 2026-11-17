@@ -1,0 +1,144 @@
+docs/user-guide/recipes.md
+  s_b88e191f48e9d6::t_13379d492c8158 141-142,145,160,169,183-188
+  s_b88e191f48e9d6::t_25170c9b41ab0e 161-162,182
+  s_b88e191f48e9d6::t_a8f299e725789c 27,134-140,143-144,146-159,163-168,170-181
+  s_b88e191f48e9d6::t_75b54cae914314 189
+aspec/models/target/target_utils.py
+  s_b88e191f48e9d6::t_031b03f4919a3c 33,89,328
+  s_b88e191f48e9d6::t_b992ba535c3d83 32
+tools/recipe_catalog.json
+  s_b88e191f48e9d6::t_a8f299e725789c 149-159
+tests/cpu/test_target_lm_head.py
+  s_b88e191f48e9d6::t_f2ce1b4b7c2d47 193-194
+licenses/QuACK-LICENSE
+  s_b88e191f48e9d6::t_13379d492c8158 1-201
+docs/framework/REFERENCES.md
+  s_b88e191f48e9d6::t_25170c9b41ab0e 23
+  s_b88e191f48e9d6::t_3709d78a5e7683 24
+  s_b88e191f48e9d6::t_13379d492c8158 25
+tests/cpu/test_release_recipes.py
+  s_b88e191f48e9d6::t_a8f299e725789c 33-34,88
+aspec/models/ops/loss.py
+  s_b88e191f48e9d6::t_3709d78a5e7683 56,71
+  s_b88e191f48e9d6::t_6c1f77403f9ce2 57
+  s_b88e191f48e9d6::t_06db49ba15bd90 21-22,51-55,58-70,72
+  s_b88e191f48e9d6::t_ce1d179b1cfa63 121-131
+  s_b88e191f48e9d6::t_cd575070af87bf 73-75,132-133
+aspec/training/dspark_trainer.py
+  s_b88e191f48e9d6::t_ce1d179b1cfa63 30,62-63,81
+aspec/models/dspark.py
+  s_b88e191f48e9d6::t_5b784e667aaa0d 21,23-25,27-30,32-34,75
+  s_b88e191f48e9d6::t_ce1d179b1cfa63 40,43,95,117-119,183-191,276-279,281,284-288,332-333,348,353,502-505,594,606,625-627,679-681,686-687,692-693,697-698,708-711,713-714
+  s_b88e191f48e9d6::t_5909a96bc401d6 634-637,702-704
+  s_b88e191f48e9d6::t_ef13353b31481e 46-48,50-51
+  s_b88e191f48e9d6::t_5fcb151f9c82e5 509,640-641
+  s_b88e191f48e9d6::t_3709d78a5e7683 49,608
+  s_b88e191f48e9d6::t_58235c57ab2c2c 166-169,334-335,520,528,556,628,696,727
+  s_b88e191f48e9d6::t_d2b8426072ec72 510-516,595,631-633,638-639,642-645
+  s_b88e191f48e9d6::t_06db49ba15bd90 607,609-624,647-650,669-678,716
+  s_b88e191f48e9d6::t_e1f88c9821090e 336-337
+configs/recipes/glm5_3_flash_dspark.yaml
+  s_b88e191f48e9d6::t_cb4b6e362feee7 22
+  s_b88e191f48e9d6::t_6678dab377b630 1-21,23-48,50-72,74-103
+  s_b88e191f48e9d6::t_13379d492c8158 73
+  s_b88e191f48e9d6::t_6679e4ef8cb222 49
+docs/user-guide/algorithms.md
+  s_b88e191f48e9d6::t_d38d7316005bf8 23-25
+  s_b88e191f48e9d6::t_6c1f77403f9ce2 70-72
+  s_b88e191f48e9d6::t_5f0fffc71d5d5a 60-69
+  s_b88e191f48e9d6::t_ebd61369effdd1 73
+aspec/config/dspark_glm5_3_flash_draft_config.json
+  s_b88e191f48e9d6::t_031b03f4919a3c 1-36
+aspec/config/draft_algorithm.py
+  s_b88e191f48e9d6::t_587cff02256b0c 18-28
+tests/test_dspark_speculators_cutedsl.py
+  s_b88e191f48e9d6::t_6c1f77403f9ce2 83-84,140-171,174
+  s_b88e191f48e9d6::t_3709d78a5e7683 3,13-14
+  s_b88e191f48e9d6::t_017eb9022c83dc 132
+  s_b88e191f48e9d6::t_7b0e5b763d5eaa 85-86,106-107,117
+  s_b88e191f48e9d6::t_65a32215b589de 87-105,108-109,118,120-122,124-130,133-139
+  s_b88e191f48e9d6::t_947f9808eb98d4 172-173,194-200,205
+  s_b88e191f48e9d6::t_ba951521dcafcf 110-116
+  s_b88e191f48e9d6::t_0adb94e40a6f0c 119,123,131
+  s_b88e191f48e9d6::t_9162fc71ed92da 175-176,179-181,183,189-193,202-204,206-211,214,216-218
+  s_b88e191f48e9d6::t_c7ba23548ed787 177,182,184-188,201,215
+  s_b88e191f48e9d6::t_cd09480692c73a 178,212-213
+  s_b88e191f48e9d6::t_cb4b6e362feee7 1-2,4-12,15-82
+aspec/inference/engine/sgl_engine.py
+  s_b88e191f48e9d6::t_031b03f4919a3c 987,989
+aspec/config/train_config.py
+  s_b88e191f48e9d6::t_587cff02256b0c 249
+aspec/models/dflash.py
+  s_b88e191f48e9d6::t_031b03f4919a3c 420-421
+aspec/kernels/cutedsl/speculators_loss.py
+  s_b88e191f48e9d6::t_d46c746f216c4b 378,386,403-417,419-421,423,428-429,431-432,434-444,465-467
+  s_b88e191f48e9d6::t_3709d78a5e7683 4,259
+  s_b88e191f48e9d6::t_60a3af0986a3ed 476,482
+  s_b88e191f48e9d6::t_fe6a88b6225416 18,455-459
+  s_b88e191f48e9d6::t_13379d492c8158 305
+  s_b88e191f48e9d6::t_ce901fcc055b45 397-399,430,433
+  s_b88e191f48e9d6::t_cb4b6e362feee7 1-3,5-17,19-258,260-304,306-377,379-385,387-396,400-402,418,422,424-427,445-454,460-464,468-475,477-481
+docs/support.md
+  s_b88e191f48e9d6::t_5b784e667aaa0d 13
+tests/cpu/test_glm5_flash_draft.py
+  s_b88e191f48e9d6::t_947f9808eb98d4 23-32,44-46,48-56,91-107
+  s_b88e191f48e9d6::t_5805b17f7052cd 1-22,33-43,47,57-81
+  s_b88e191f48e9d6::t_216f9b6a011521 82-90,108-125
+aspec/data/renderers/__init__.py
+  s_b88e191f48e9d6::t_6678dab377b630 22,26
+  s_b88e191f48e9d6::t_6679e4ef8cb222 32
+tests/cpu/test_dspark_loss_recipes.py
+  s_b88e191f48e9d6::t_6e43c710be8c0c 1-42,48-66,77,81-83,89-104,107-115,155-158,160-161,166-181,185-188
+  s_b88e191f48e9d6::t_14e671c234bbe6 149-151,159
+  s_b88e191f48e9d6::t_f2dd5374a86e63 116-119,121-125,127-128,130-132,134-136,138-148
+  s_b88e191f48e9d6::t_947f9808eb98d4 43-47,67-76,78-80,84-88,105-106,120,126,129,133,137,152-154,162-165,182-184
+aspec/config/draft_attention.py
+  s_b88e191f48e9d6::t_031b03f4919a3c 127-129,408-409
+aspec/planning.py
+  s_b88e191f48e9d6::t_587cff02256b0c 37,344-349,366-367,1330
+  s_b88e191f48e9d6::t_031b03f4919a3c 679-684,695-696,704
+  s_b88e191f48e9d6::t_f2ce1b4b7c2d47 1864-1866
+aspec/config/utils.py
+  s_b88e191f48e9d6::t_031b03f4919a3c 28,33-41
+  s_b88e191f48e9d6::t_f2ce1b4b7c2d47 128
+  s_b88e191f48e9d6::t_a475c1ea2a6998 42-43
+docs/user-guide/training.md
+  s_b88e191f48e9d6::t_260becc1047973 209
+  s_b88e191f48e9d6::t_cb4b6e362feee7 218
+  s_b88e191f48e9d6::t_3709d78a5e7683 205
+  s_b88e191f48e9d6::t_6c1f77403f9ce2 206-208,215-216
+  s_b88e191f48e9d6::t_58235c57ab2c2c 217,219
+  s_b88e191f48e9d6::t_8ed12d1c6731b6 210
+  s_b88e191f48e9d6::t_d46c746f216c4b 211-213
+  s_b88e191f48e9d6::t_d38d7316005bf8 183-204
+  s_b88e191f48e9d6::t_adade86c544e81 214
+aspec/training/dflash_trainer.py
+  s_b88e191f48e9d6::t_852338078b5440 159
+  s_b88e191f48e9d6::t_58235c57ab2c2c 373-374
+  s_b88e191f48e9d6::t_6ebca86f73530b 153-157,160
+  s_b88e191f48e9d6::t_ce1d179b1cfa63 214
+aspec/data/renderers/glm5.py
+  s_b88e191f48e9d6::t_6ebca86f73530b 38-42
+  s_b88e191f48e9d6::t_947f9808eb98d4 25-27,31-35,46-50
+  s_b88e191f48e9d6::t_6678dab377b630 1-24,28-30,36-37,43-45,51-67
+aspec/training/checkpoint.py
+  s_b88e191f48e9d6::t_587cff02256b0c 82,150-151
+  s_b88e191f48e9d6::t_852338078b5440 828-829
+  s_b88e191f48e9d6::t_6ebca86f73530b 792-826,845-846
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5fe9697c195255e62114f4736ede1960c289f618",
+  "prompts": {},
+  "sessions": {
+    "s_b88e191f48e9d6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d2e0-748a-79c1-ab85-2a744af8e665",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
