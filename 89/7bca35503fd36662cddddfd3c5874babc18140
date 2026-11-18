@@ -1,0 +1,31 @@
+docs/framework/REFERENCES.md
+  s_224e6e053af1a6::t_73ad4d6f7e96c1 16
+aspec/training/megatron_trainer.py
+  s_224e6e053af1a6::t_0a8404a02cbcd8 163-166
+aspec/evidence.py
+  s_224e6e053af1a6::t_e8d44821cd9e62 450-451
+tools/validation/megatron_draft_alignment.py
+  s_224e6e053af1a6::t_6a926c619379a2 203,225,423
+docs/user-guide/megatron.md
+  s_224e6e053af1a6::t_b899127c0bafba 171-194,214-243
+  s_224e6e053af1a6::t_a713a3ac43961c 244-253
+  s_224e6e053af1a6::t_e6a14c082024de 195-213
+tools/validation/megatron_pipeline_acceptance.py
+  s_224e6e053af1a6::t_6a926c619379a2 38,72,95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "897bca35503fd36662cddddfd3c5874babc18140",
+  "prompts": {},
+  "sessions": {
+    "s_224e6e053af1a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e976-1c4e-7751-8858-db2fb3e56567",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
