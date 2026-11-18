@@ -1,0 +1,21 @@
+docs/user-guide/structures.md
+  s_7c51e42462d280::t_3e730f49ec67bd 59
+  s_7c51e42462d280::t_0084009b55fe75 39-41,54-57
+  s_7c51e42462d280::t_147ad2149b69b9 58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b99257670102344f2713696958f5e8be7c955cb3",
+  "prompts": {},
+  "sessions": {
+    "s_7c51e42462d280": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8ba-2a3f-7581-984e-b7e37ef7e555",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
