@@ -1,0 +1,25 @@
+tests/test_cudnn_mha64.py
+  s_7c51e42462d280::t_3eb7bab695cad2 50,199-230,232-242
+aspec/kernels/cutedsl/dspark_qk_norm_rope.py
+  s_7c51e42462d280::t_4f2a677d167ac6 10,358,371
+aspec/kernels/cutedsl/dspark_qk_norm_rope_bwd.py
+  s_7c51e42462d280::t_4f2a677d167ac6 293,320-324,326-328
+docs/user-guide/structures.md
+  s_7c51e42462d280::t_3eb7bab695cad2 39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "366d28dc1cdb2620d90b7923dd6f12b9a9c31188",
+  "prompts": {},
+  "sessions": {
+    "s_7c51e42462d280": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8ba-2a3f-7581-984e-b7e37ef7e555",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
