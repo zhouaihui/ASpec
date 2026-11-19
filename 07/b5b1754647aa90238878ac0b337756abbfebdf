@@ -1,0 +1,32 @@
+tests/cpu/test_release_recipes.py
+  s_b88e191f48e9d6::t_72dea45085f939 57
+docs/contributing/validation.md
+  s_b88e191f48e9d6::t_51469206baee28 34-47,49
+  s_b88e191f48e9d6::t_ddb81c83159f6b 48
+configs/recipes/glm5_3_flash_dspark.yaml
+  s_b88e191f48e9d6::t_72dea45085f939 22
+tests/cpu/test_cudnn_gqa_mode.py
+  s_b88e191f48e9d6::t_1e6b02d7975d0d 68-107
+docs/user-guide/recipes.md
+  s_b88e191f48e9d6::t_72dea45085f939 136-138
+aspec/models/ops/cudnn_flex_attention.py
+  s_b88e191f48e9d6::t_1e6b02d7975d0d 385,387-388,429
+tests/test_cudnn_deterministic_gpu.py
+  s_b88e191f48e9d6::t_d104e4b2891f04 1-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "07b5b1754647aa90238878ac0b337756abbfebdf",
+  "prompts": {},
+  "sessions": {
+    "s_b88e191f48e9d6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d2e0-748a-79c1-ab85-2a744af8e665",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
