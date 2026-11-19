@@ -1,0 +1,19 @@
+tests/cpu/test_dmtp.py
+  s_e41f5c64274078::t_d208f195a65c9b 422-430,472,474-479,482
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c888ca97db203a80bdf2cdc717f97a72079bd057",
+  "prompts": {},
+  "sessions": {
+    "s_e41f5c64274078": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f1ad-6e23-7aa1-946d-20e710a203ae",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
