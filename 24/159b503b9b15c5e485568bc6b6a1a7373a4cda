@@ -1,0 +1,21 @@
+tests/cpu/test_glm5_flash_draft.py
+  s_b88e191f48e9d6::t_a7eb428f5387e2 60-71,85-88,90-93,102,110,120,253-254,260-263,275-280
+aspec/training/checkpoint.py
+  s_b88e191f48e9d6::t_a7eb428f5387e2 872-873
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "24159b503b9b15c5e485568bc6b6a1a7373a4cda",
+  "prompts": {},
+  "sessions": {
+    "s_b88e191f48e9d6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d2e0-748a-79c1-ab85-2a744af8e665",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
