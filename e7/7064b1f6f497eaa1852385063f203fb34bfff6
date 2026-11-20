@@ -1,0 +1,71 @@
+tests/cpu/test_target_service.py
+  s_224e6e053af1a6::t_8b6baaa10a8564 814-822
+docs/user-guide/megatron.md
+  s_224e6e053af1a6::t_1fedb3710f5242 162-164,167-173,175-178,181-210,213-216,279-307,310-315
+  s_224e6e053af1a6::t_a015bebe205e18 174,179-180,222-224,240-241,308-309
+  s_224e6e053af1a6::t_f783c165a2fce2 316
+aspec/models/megatron.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 68-77
+aspec/runtime_identity.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 29
+tests/cpu/test_megatron.py
+  s_224e6e053af1a6::t_8b6baaa10a8564 8,178-179,271-380
+aspec/inference/service_client.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 11-13,24
+  s_224e6e053af1a6::t_36ec2a29886d1f 10,14-15
+aspec/inference/factory.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 314-316,318
+tests/cpu/test_torch_tp_validation.py
+  s_224e6e053af1a6::t_8b6baaa10a8564 22-23
+tools/validation/megatron_torch_alignment.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 195,198,307-309,457-459,542-544,567,599
+  s_224e6e053af1a6::t_8c2b170cb8cc08 19,176-177,196-197,320-325,344
+  s_224e6e053af1a6::t_734bc249fb35fd 234-244,618-619,650-651
+tools/validation/megatron_target_aspec_alignment.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 38,40-42
+aspec/training/data_fetcher.py
+  s_224e6e053af1a6::t_734bc249fb35fd 665-667,669-689,697-699,701-703
+  s_224e6e053af1a6::t_8b6baaa10a8564 690-696
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 148-149
+aspec/inference/service.py
+  s_224e6e053af1a6::t_734bc249fb35fd 443
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 30
+  s_224e6e053af1a6::t_8b6baaa10a8564 107-110
+aspec/inference/engine/megatron_engine.py
+  s_224e6e053af1a6::t_734bc249fb35fd 19,30-37,39-55,77,110,123-130,137,263-264
+  s_224e6e053af1a6::t_8b6baaa10a8564 38,75-76,101
+docs/benchmarks/megatron-online-tp2.csv
+  s_224e6e053af1a6::t_1fedb3710f5242 1-201
+aspec/inference/service_protocol.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 8,45-56
+  s_224e6e053af1a6::t_8b6baaa10a8564 11
+  s_224e6e053af1a6::t_da1270c9599c47 57-58
+aspec/cli.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 51-55
+aspec/utils/env.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 94
+tools/validation/torch_tp_dspark.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 28-29
+tools/validation/megatron_online_alignment.py
+  s_224e6e053af1a6::t_8c2b170cb8cc08 1-153
+aspec/inference/target_runtime.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 45-46
+tests/cpu/test_target_environment.py
+  s_224e6e053af1a6::t_5eed6ab74a5469 239-258
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e77064b1f6f497eaa1852385063f203fb34bfff6",
+  "prompts": {},
+  "sessions": {
+    "s_224e6e053af1a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e976-1c4e-7751-8858-db2fb3e56567",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
