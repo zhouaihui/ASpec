@@ -1,0 +1,23 @@
+tests/cpu/test_megatron.py
+  s_224e6e053af1a6::t_2d8d9603a00988 381-420
+aspec/inference/engine/megatron_engine.py
+  s_224e6e053af1a6::t_f83a2233a6a211 65,69,71-81,135
+tests/test_megatron_target_gpu.py
+  s_224e6e053af1a6::t_f68fb19673e90f 1-276
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5b98a42dd30d54b1118867eec26b57187770fa17",
+  "prompts": {},
+  "sessions": {
+    "s_224e6e053af1a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e976-1c4e-7751-8858-db2fb3e56567",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
