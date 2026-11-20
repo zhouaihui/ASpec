@@ -1,0 +1,28 @@
+aspec/training/data_fetcher.py
+  s_224e6e053af1a6::t_ce64a7d14dc2bf 150-151
+tests/cpu/test_megatron.py
+  s_224e6e053af1a6::t_a4573697391d8e 342-343,346-353
+  s_224e6e053af1a6::t_8d68b3cd0e8415 354-357
+tests/test_tp_input_gpu.py
+  s_224e6e053af1a6::t_8d68b3cd0e8415 1-17
+tests/tp_input.py
+  s_224e6e053af1a6::t_8d68b3cd0e8415 1-42
+docs/user-guide/megatron.md
+  s_224e6e053af1a6::t_ce64a7d14dc2bf 289-292,297-298,301,304
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "12d911ca49476bc3bf5f72219b38ae0f05188d37",
+  "prompts": {},
+  "sessions": {
+    "s_224e6e053af1a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e976-1c4e-7751-8858-db2fb3e56567",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
