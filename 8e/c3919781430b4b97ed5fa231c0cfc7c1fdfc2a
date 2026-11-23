@@ -1,0 +1,17 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8ec3919781430b4b97ed5fa231c0cfc7c1fdfc2a",
+  "prompts": {},
+  "sessions": {
+    "s_224e6e053af1a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e976-1c4e-7751-8858-db2fb3e56567",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+aspec/cli.py
+  s_224e6e053af1a6::t_e0af1f9b0dfda0 51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "888f3dfbccb1182b783940dd751b1f15b4a73d95",
+  "prompts": {},
+  "sessions": {
+    "s_224e6e053af1a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e976-1c4e-7751-8858-db2fb3e56567",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
