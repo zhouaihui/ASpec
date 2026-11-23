@@ -1,0 +1,44 @@
+aspec/ray/train_group.py
+  s_2b16acce452bc2::t_34f0394c900402 301-302
+tests/cpu/test_megatron.py
+  s_2b16acce452bc2::t_7aa15faba4f2c3 184-202
+  s_2b16acce452bc2::t_cc1fb35b1671bc 155-156,166-183
+  s_2b16acce452bc2::t_c4bc5a5f6e92f8 154,157-165
+aspec/config/megatron.py
+  s_2b16acce452bc2::t_34f0394c900402 44-49
+  s_2b16acce452bc2::t_404806ad2c753c 25
+docs/support.md
+  s_2b16acce452bc2::t_84f7d36af4425d 33-35
+aspec/planning.py
+  s_2b16acce452bc2::t_34f0394c900402 911-912
+  s_2b16acce452bc2::t_22a9df1dc1a549 1805,1809-1821,1826-1828,1830
+docs/user-guide/megatron.md
+  s_2b16acce452bc2::t_84f7d36af4425d 5-8,12-16,130,172-175
+  s_2b16acce452bc2::t_7aa15faba4f2c3 203-206,208-225
+aspec/models/megatron_draft.py
+  s_2b16acce452bc2::t_34f0394c900402 16,33
+tools/validation/megatron_torch_alignment.py
+  s_2b16acce452bc2::t_b9393f3691f9d6 333-334,336-340,507-509
+  s_2b16acce452bc2::t_34f0394c900402 293-301,316,344-345,406,417-418,518-524,540,617-618,626-630
+  s_2b16acce452bc2::t_8b352f6d06ca5c 640-641
+aspec/training/megatron_trainer.py
+  s_2b16acce452bc2::t_34f0394c900402 35,39-41,44,95,139,201
+aspec/models/megatron.py
+  s_2b16acce452bc2::t_34f0394c900402 35,48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "627086539c6d4f2e8238e79feb8e7b7eda56e077",
+  "prompts": {},
+  "sessions": {
+    "s_2b16acce452bc2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f7a2-a562-76e1-be46-b88987082b1d",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
