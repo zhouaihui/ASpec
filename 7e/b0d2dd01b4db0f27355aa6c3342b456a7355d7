@@ -1,0 +1,39 @@
+tests/cpu/test_alignment_rel_diff.py
+  s_2b16acce452bc2::t_dc316d95a486d8 5,61-85
+docs/benchmarks/megatron-packed-online.csv
+  s_2b16acce452bc2::t_bc039117aeef2e 1-201
+docs/user-guide/megatron.md
+  s_2b16acce452bc2::t_53c0d58e647d6b 12-13,15,257-280
+  s_2b16acce452bc2::t_a45fae1e251d0b 289-302
+  s_2b16acce452bc2::t_ce906ca17667d9 281-283,286-288
+tools/validation/megatron_packed_online.py
+  s_2b16acce452bc2::t_b4dc7ed98ecb60 15-18
+  s_2b16acce452bc2::t_f56b39eb5f432c 30-126,153-156,177-213
+  s_2b16acce452bc2::t_90b188f919b15b 130,150-152,157,218
+  s_2b16acce452bc2::t_e5ae1f28582f17 131,134-138,140-149,158-159
+  s_2b16acce452bc2::t_ba40c6a2f91609 132-133,139
+  s_2b16acce452bc2::t_7af3634c80b4bf 12-14
+  s_2b16acce452bc2::t_ae6a1ba833e3d7 19-21,27-29
+  s_2b16acce452bc2::t_bbc57a4bf85207 127-129
+  s_2b16acce452bc2::t_3c2710e60189e5 160-162,174-176
+  s_2b16acce452bc2::t_d4f34c0f636447 214-217
+  s_2b16acce452bc2::t_ea30fb1bce7ebe 219-221
+docs/support.md
+  s_2b16acce452bc2::t_2e04d068ccda8d 34-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7eb0d2dd01b4db0f27355aa6c3342b456a7355d7",
+  "prompts": {},
+  "sessions": {
+    "s_2b16acce452bc2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f7a2-a562-76e1-be46-b88987082b1d",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
