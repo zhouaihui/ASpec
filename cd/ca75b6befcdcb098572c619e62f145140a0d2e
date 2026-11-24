@@ -1,0 +1,54 @@
+aspec/models/mtp.py
+  s_6e0d4639ffb2d8::t_8bc43803a49bd8 36-37,42-47,65,106
+docs/user-guide/evaluation.md
+  s_6e0d4639ffb2d8::t_f7ad609672055d 58
+docs/user-guide/algorithms.md
+  s_6e0d4639ffb2d8::t_3f55fa517c1a8d 163-180,183-188,192
+  s_6e0d4639ffb2d8::t_1ce0a21613a87d 181-182,189-191
+aspec/models/dmtp.py
+  s_6e0d4639ffb2d8::t_8bc43803a49bd8 128,135
+docs/support.md
+  s_6e0d4639ffb2d8::t_f7ad609672055d 21
+aspec/training/checkpoint.py
+  s_6e0d4639ffb2d8::t_de2fb60128d80e 358
+tests/test_native_mtp_thd.py
+  s_6e0d4639ffb2d8::t_8bc43803a49bd8 106,112
+  s_6e0d4639ffb2d8::t_6c86068d97b389 41-63
+  s_6e0d4639ffb2d8::t_3f55fa517c1a8d 91-92,97
+aspec/commands/convert_to_hf.py
+  s_6e0d4639ffb2d8::t_8bc43803a49bd8 211-212
+aspec/training/mtp_trainer.py
+  s_6e0d4639ffb2d8::t_3f55fa517c1a8d 23,27,36
+  s_6e0d4639ffb2d8::t_e51b461dc55cd9 19,28-35
+tests/test_native_mtp.py
+  s_6e0d4639ffb2d8::t_f7ad609672055d 105
+  s_6e0d4639ffb2d8::t_3f55fa517c1a8d 52-53,85-86,88,100-104,300-311,339-387
+  s_6e0d4639ffb2d8::t_318ed5bb0d9819 323-326
+  s_6e0d4639ffb2d8::t_de2fb60128d80e 322,327-328,330-338
+  s_6e0d4639ffb2d8::t_61cc42f6cc93c8 329
+  s_6e0d4639ffb2d8::t_f27145fa1e71d2 312-321
+aspec/planning.py
+  s_6e0d4639ffb2d8::t_8bc43803a49bd8 304-305,1534
+aspec/models/draft/mtp.py
+  s_6e0d4639ffb2d8::t_ecc4b3942b7d7d 158,162,166-170
+  s_6e0d4639ffb2d8::t_de2fb60128d80e 159-160,195-196
+  s_6e0d4639ffb2d8::t_8bc43803a49bd8 38,62-65,104-114,128-129,136-141,171,187-188
+aspec/config/qwen3_5_9b_mtp_3layer_draft_config.json
+  s_6e0d4639ffb2d8::t_8bc43803a49bd8 1-82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cdca75b6befcdcb098572c619e62f145140a0d2e",
+  "prompts": {},
+  "sessions": {
+    "s_6e0d4639ffb2d8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20786-d0b8-7033-9372-5d5551c967cb",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zhouaihui <albert.zah@antgroup.com>"
+    }
+  }
+}
